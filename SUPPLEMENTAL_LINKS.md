@@ -39,7 +39,6 @@
     * Distributions, correlations https://gist.github.com/leosiqueira/053299d183b1360e6a63#file-lecture-siqueira-python-class2-ipynb
     * Multivariate correlations, corr-caveats https://gist.github.com/leosiqueira/451401f295fabf8470dc#file-lecture_siqueira_class3-ipynb
     
--------------------
   * General galleries: 
     * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
     * http://nb.bianp.net/
