@@ -1,5 +1,5 @@
 # Syllabus of MPO/ATM 642, spring 2018
-Applied Data Analysis (in an oceanography/meteorology setting)
+Applied Data Analysis (in an oceanography/meteorology setting). https://github.com/MPO624/2018.
 
 Instructor: Brian Mapes, mapes@miami.edu. MSC366 is my office. 
 TA: Mampi Sarkar, mampi.sarkar@rsmas.miami.edu
