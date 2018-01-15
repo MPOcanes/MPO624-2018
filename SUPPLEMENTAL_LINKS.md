@@ -30,7 +30,7 @@
   * Atmosphere-ocean
     * U Washington atmos notebooks http://atmos.spyndle.net/cgi-bin/notebooks.cgi
     * geosciences https://github.com/koldunovn/python_for_geosciences
-    * oceanography https://ocefpaf.github.io/python4oceanographers/
+    * oceanography https://github.com/ocefpaf
     * metocean https://github.com/nicolasfauchereau/metocean
     * NASA Notebook on how to open and read and plot data from NASA servers without downloading. For instance, this server and goldsmr5 host MERRA2 reanalysis.
 
