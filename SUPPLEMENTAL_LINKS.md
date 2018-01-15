@@ -1,6 +1,7 @@
 # Links to useful resources for class 
 
-* Other courses and books about the statistics and theory part
+* Other courses & books about statistics and data analysis
+
   * My past courses: http://mpo624-2016.wikispaces.com/
   * Libby Barnes course at CSU http://barnes.atmos.colostate.edu/COURSES/AT655_S17/lecture_slides.html
   * Excellent free Matlab based .ppt's http://www.ldeo.columbia.edu/users/menke/edawm/eda_lectures/ 
