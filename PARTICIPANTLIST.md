@@ -1,4 +1,4 @@
-# Students and their github pages and emails
+# Course members and their github pages and emails
 
 Name | email | github account URL 
 -----|------ | -------------
