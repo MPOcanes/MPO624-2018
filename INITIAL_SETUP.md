@@ -34,7 +34,8 @@ This folder will be special: it will have some hidden files in there (starting w
 
       * One naming suggestion would be (home)/MPO624/unidata-python-workshop. But maybe “624” won’t mean much to you next year or next decade, perhaps you prefer (home)/MPO_data_class/… Or maybe you think you will work with Jupyter for a long time, beyond just this course, and we will download notebooks from lots of places, some static (not forked). It’s good to have all your Jupyter notebooks in one file tree, as you will see.  So I put Jupyter/ as a top level directory. So I am using (myname)/Jupyter/unidata-python-workshop
 
-   * Do this before class: it is fairly slow  step that downloads a lot of packages.
+   * Do this before class: it is fairly slow step that downloads a lot of packages. You will need to open a "Terminal" in Mac or "Command Prompt" in Windows and type these things there. 
+   
       * cd (your_directory)/unidata-python-workshop
       * conda env create -f environment.yml
       
