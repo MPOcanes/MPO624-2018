@@ -37,6 +37,10 @@ This folder will be special: it will have some hidden files in there (starting w
       * cd (your_directory)/unidata-python-workshop
       * conda env create -f environment.yml
       
-   * If all goes well, dare to type
-      * jupyter notebook
+   * If all goes well, you can now activate the environment (where all those packages are installed), and launch! 
+      * Windows: **activate unidata-workshop**
+      * Mac (bash shell): **source activate unidata-workshop**
+      * **jupyter notebook**
+      
+      A browser window should now pop up with Jupyter running in it! 
 
