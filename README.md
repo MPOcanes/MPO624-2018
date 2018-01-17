@@ -3,7 +3,7 @@
 ### Software Installs: 
 1. GitHub
 
-* consider installing the desktop client https ://desktop.github.com/
+* consider installing the desktop client https://desktop.github.com/
 * make an account on github.com (the desktop client will prompt you on launch, or you can go directly). 
     * Consider browsing the Guides at https://guides.github.com/
         - Perhaps make yourself a simple web page at GitHub Pages
