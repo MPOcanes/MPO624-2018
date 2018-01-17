@@ -1,4 +1,4 @@
-## Browser-only GitHub: 
+## 1. Get an account, and try browser exercises on GitHub: 
 
 #### Setup 
 * consider installing the desktop client https ://desktop.github.com/
@@ -7,13 +7,13 @@
         - Perhaps make yourself a simple web page at GitHub Pages
     * if you like, dig into deeper “training" https ://services.github.com/on-demand/
 
-#### test of forking and pull requests (collaboration!) 
+#### test forking and pull requests (collaboration!) 
 
 * From the master copy at https://github.com/MPO624/2018, Fork, edit PARTICIPANTLIST.md, and make a PR. 
 
 -------------------------
-## The overall course folder 
-#### on your machine, backed up as a "fork" of the _master_ class repo
+## 2. Now, get stuff onto your own machine, like the overall course folder 
+#### your "fork" of the _master_ class repo
 
 Let's get your fork of the course (github.com/myname/2018) onto your own computer — but in a way that you can easily sync with your github version (which functions as a backup). To do that, I use the Github desktop app (client). (there is command-line way, but the client helps you see some relationships, at least at first). 
 
@@ -24,7 +24,8 @@ This folder will be special: it will have some hidden files in there (starting w
   * So I will use (home)/Jupyter/GitHubForks/MPO624-2018. 
 
 ----------------------
-## For unidata-python-workshop setup (a professional launch into jupyter-python)
+## 3. Let's install and launch jupyter-python, from unidata-python-workshop
+
 * Basically, follow the istructions at https://unidata.github.io/unidata-python-workshop/installation.html
 
    * install miniconda3 (the basic system, easily expanded) or anaconda (the big package with more than we need) from anaconda.com. The 3 refers to Python3. Python2 is deprecated soon.
