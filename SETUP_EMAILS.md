@@ -30,7 +30,7 @@ This folder will be special: it will have some hidden files in there (starting w
 
    * install miniconda3 (the basic system, easily expanded) or anaconda (the big package with more than we need) from anaconda.com. The 3 refers to Python3. Python2 is deprecated soon.
 
-   * Clone or Download (big green button) https://github.com/Unidata/unidata-python-workshop. Put it in a meaningful directory — the thoughfulness with which you organize YOUR computer’s file hierarchy will pay off in the long future. 
+   * Clone or Download (big green button) https://github.com/Unidata/unidata-python-workshop. Or, the installation page has several other ways to get it. You only need one. Put it in a meaningfully named directory — the thoughfulness with which you organize YOUR computer’s file hierarchy now will pay off in the long future. 
 
       * One naming suggestion would be (home)/MPO624/unidata-python-workshop. But maybe “624” won’t mean much to you next year or next decade, perhaps you prefer (home)/MPO_data_class/… Or maybe you think you will work with Jupyter for a long time, beyond just this course, and we will download notebooks from lots of places, some static (not forked). It’s good to have all your Jupyter notebooks in one file tree, as you will see.  So I put Jupyter/ as a top level directory. So I am using (myname)/Jupyter/unidata-python-workshop
 
