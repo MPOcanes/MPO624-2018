@@ -7,7 +7,7 @@
         - Perhaps make yourself a simple web page at GitHub Pages
     * if you like, dig into deeper “training" https ://services.github.com/on-demand/
 
-#### test forking and pull requests (collaboration!) 
+#### test forking and pull requests (our first collaboration!) 
 
 * From the master copy at https://github.com/MPO624/2018, Fork, edit PARTICIPANTLIST.md, and make a PR. 
 
