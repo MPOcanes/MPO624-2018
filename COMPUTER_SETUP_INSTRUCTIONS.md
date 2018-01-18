@@ -1,11 +1,13 @@
 ## 1. Get an account, and try browser exercises on GitHub: 
 
 #### Setup 
-* consider installing the desktop client https ://desktop.github.com/
+* consider installing the desktop client https://desktop.github.com/
 * make an account on github.com (the desktop client will prompt you on launch, or you can go directly). 
-    * Browse the Guides at https ://guides.github.com/
+    * Browse the Guides at https://guides.github.com/
         - Perhaps make yourself a simple web page at GitHub Pages
-    * if you like, dig into deeper “training" https ://services.github.com/on-demand/
+    * This is fun like a game: https://learngitbranching.js.org/ 
+        - Remember, git is a **minimum** set of rules needed for peers to collaborate on a thing. It's a fundamental aspect of existence! Well worth your attention. 
+    * if you like, dig into deeper “training" https://services.github.com/on-demand/
 
 #### test forking and pull requests (our first collaboration!) 
 
