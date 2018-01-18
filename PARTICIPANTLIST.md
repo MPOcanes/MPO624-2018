@@ -6,4 +6,4 @@ Brian Mapes | mapes@miami.edu | https://github.com/brianmapes | Not right before
 Mampi Sarkar | mampi.sarkar@rsmas.miami.edu | https://github.com/mampi-sarkar | 
 Rachel Zelinsky | rsodowsky@rsmas.miami.edu | https://github.com/rsodowsky |
 Michael Mihari | michael.f.mehari@noaa.gov |  | 
-
+Kayla Besong | kab226@rsmas.miami.edu | https://github.com/kabesong
