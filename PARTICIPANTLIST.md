@@ -8,3 +8,5 @@ Wei-Ming Tsai | wxt108@rsmas.miami.edu | https://github.com/weiming9115 |
 Rachel Zelinsky | rsodowsky@rsmas.miami.edu | https://github.com/rsodowsky |
 Michael Mihari | michael.f.mehari@noaa.gov |  | 
 Kayla Besong | kab226@rsmas.miami.edu | https://github.com/kabesong
+Sara Purdue | s.purdue@umiami.edu | https://github.com/sarapurdue
+
