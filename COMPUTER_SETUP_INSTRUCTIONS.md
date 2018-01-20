@@ -12,7 +12,7 @@
 
       - Perhaps make a simple web page cover for your repo, using GitHub Pages
       - Perhaps study the repository game: https://learngitbranching.js.org/ 
-         - git is a **minimum** set of rules needed for peers to collaborate on a thing. It's a fundamental aspect of group existence! Well worth the attention. You can do all our stuff more visually, from the client, but the git command lines show the bare bones behind it. 
+         - git is a **minimum** set of rules needed for peers to collaborate on a thing. It's a fundamental aspect of group existence! Well worth the attention. You can do all our stuff more visually, from the desktop client (app), but the git command lines show the bare bones behind it. 
       - If you like, dig into the deeper training https://services.github.com/on-demand/
 
    - #### Test: Your first Fork and Pull Request (PR) (our first collaboration!) 
