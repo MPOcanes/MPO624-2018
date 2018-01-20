@@ -1,6 +1,7 @@
-# To learn Jupyter-Python, set up Miniconda3 and Github from your PC or Mac
+# To gain the power of Jupyter + Python
+## Set up Miniconda3 and Github from your PC or Mac
 
-## I. Make your space on GitHub: 
+### I. Make your space on GitHub: 
 
 #### Setup 
 1. Install the desktop client (app) https://desktop.github.com/
@@ -20,7 +21,7 @@ Browse the Guides at https://guides.github.com/.
    * Fork it. Click PARTICIPANTLIST.md. Edit it. Make a Pull Request (it comes to me, you'll see my responses). 
 
 -------------------------
-## II. Fetch your Fork of the class repo onto your own machine
+### II. Fetch your Fork of the class repo onto your own machine
 
 Let's get your fork of the course (github.com/myname/MPO624-2018) onto your own computer — but in a way that you can easily keep synced as you work on it.  You also need a local copy in order to be able to merge in any changes I make to the master MPO6424/MPO624-2018 repo. 
 
@@ -31,7 +32,7 @@ To do this, open the GitHub desktop app, and find where it says **Clone an exist
       * Naming is worth a lot of thought. How will all this fit into your larger intellectual life (as mapped into your computer)? For myself, I think Jupyter notebooks are a huge future, and it is nice to have them all in one folder tree. So I will use the name (home)/Jupyter/MPO624-2018. 
 
 ----------------------
-## III. Install and launch Jupyter notebooks and Python, following the tracks of unidata-python-workshop
+### III. Install and launch Jupyter notebooks and Python, following the tracks of unidata-python-workshop
 
 #### Follow the istructions at https://unidata.github.io/unidata-python-workshop/installation.html
 
