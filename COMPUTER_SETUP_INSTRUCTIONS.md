@@ -3,7 +3,6 @@
 
 ### I. Make your space on GitHub: 
 
-#### Setup 
 1. Install the desktop client (app) https://desktop.github.com/
    - While you're at it, install the text editor atom https://atom.io/
    
