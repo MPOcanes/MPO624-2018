@@ -8,11 +8,11 @@
    
 2. Make an account on github.com (the desktop client will prompt you on launch, or you can go directly). 
 
-3. Browse the Guides at https://guides.github.com/
+Browse the Guides at https://guides.github.com/. 
     - Perhaps make a simple web page cover for your repo, at GitHub Pages
-    - Repository game: https://learngitbranching.js.org/ 
+    - Perhaps study the repository game: https://learngitbranching.js.org/ 
         - git is a **minimum** set of rules needed for peers to collaborate on a thing. It's a fundamental aspect of group existence! Well worth the attention. You can do all our stuff more visually, from the client, but the git command lines show the bare bones behind it. 
-    - if you like, dig into the deeper training https://services.github.com/on-demand/
+    - If you like, dig into the deeper training https://services.github.com/on-demand/
 
 #### Test: Your first Fork and Pull Request (PR) (our first collaboration!) 
 
