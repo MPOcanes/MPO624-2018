@@ -40,7 +40,7 @@ To do this, open the GitHub desktop app, and find where it says **Clone an exist
 
 #### These are the instructions, summarized from https://unidata.github.io/unidata-python-workshop/installation.html
 
-   1. **install** miniconda3 (the basic system, easily expanded) or anaconda (the big package with more than we need) from anaconda.com. The 3 refers to Python3; Python2 will be deprecated soon.
+   1. **install** miniconda3 (the basic system, easily expanded) from https://conda.io/miniconda.html, or full anaconda (a big package with more than we need) from anaconda.com/download. The 3 refers to Python3; Python2 will be deprecated soon.
    
    2. Copy the workshop repo  https://github.com/Unidata/unidata-python-workshop onto your local machine. If you think you may want to contribute back to those materials, use **Fork** as in step II. If you just want a fixed copy, use **Clone or Download** (big green button). The installation page has other ways to get it -- you only need one of these. Again, put it in a meaningfully named directory — mine is (home)/Jupyter/unidata-python-workshop. 
 
