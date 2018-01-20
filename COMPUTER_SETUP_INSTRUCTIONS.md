@@ -8,21 +8,21 @@
    
 2. Make an account on github.com (the desktop client will prompt you on launch, or you can go directly). 
 
-#### Browse the Guides at https://guides.github.com/
+   - #### Browse the Guides at https://guides.github.com/
 
-  - Perhaps make a simple web page cover for your repo, using GitHub Pages
-  - Perhaps study the repository game: https://learngitbranching.js.org/ 
-      - git is a **minimum** set of rules needed for peers to collaborate on a thing. It's a fundamental aspect of group existence! Well worth the attention. You can do all our stuff more visually, from the client, but the git command lines show the bare bones behind it. 
-   - If you like, dig into the deeper training https://services.github.com/on-demand/
+      - Perhaps make a simple web page cover for your repo, using GitHub Pages
+      - Perhaps study the repository game: https://learngitbranching.js.org/ 
+         - git is a **minimum** set of rules needed for peers to collaborate on a thing. It's a fundamental aspect of group existence! Well worth the attention. You can do all our stuff more visually, from the client, but the git command lines show the bare bones behind it. 
+      - If you like, dig into the deeper training https://services.github.com/on-demand/
 
-#### Test: Your first Fork and Pull Request (PR) (our first collaboration!) 
+   - #### Test: Your first Fork and Pull Request (PR) (our first collaboration!) 
 
-Go to the master copy at https://github.com/MPO624/MPO624-2018
-   * Fork it. 
-   * Click _PARTICIPANTLIST.md_. 
-   * Click the pencil icon, and edit the markdown (it should be self-explanatory). 
-   * Commit your edits (with a non-default comment, if you like). 
-   * When done, make a _Pull Request_. That comes to me, and you'll see my responses in your email. Or, you can always check the status of your request thread on the web site. 
+      - Go to the master copy at https://github.com/MPO624/MPO624-2018
+         * Fork it. 
+         * Click _PARTICIPANTLIST.md_. 
+         * Click the pencil icon, and edit the markdown (it should be self-explanatory). 
+         * Commit your edits (with a non-default comment, if you like). 
+         * When done, make a _Pull Request_. That comes to me, and you'll see my responses in your email. Or, you can always check the status of your request thread on the web site. 
 
 -------------------------
 ### II. Fetch your Fork of the class repo onto your own machine
