@@ -57,5 +57,5 @@ To do this, open the GitHub desktop app, and find where it says **Clone an exist
    * The moment of truth:
       * **jupyter notebook**
       
-If it's all correct, a browser window should now pop up, with Jupyter running in it! You will see your file tree, beginning from the folder you launch jupyter in. **explore, learn to operate, and feel free to edit the notebooks/???.ipynb** files!
+If it's all correct, a browser window should now pop up, with Jupyter running in it! You will see your file tree, beginning from the folder you launch jupyter in. You are ready to **explore, learn to operate, and feel free to edit the notebooks/xxxx.ipynb** files!
 
