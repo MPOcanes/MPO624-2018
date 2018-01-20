@@ -38,7 +38,7 @@ To do this, open the GitHub desktop app, and find where it says **Clone an exist
 ----------------------
 ### III. Install and launch Jupyter notebooks and Python, following the tracks of unidata-python-workshop
 
-#### Follow the istructions at https://unidata.github.io/unidata-python-workshop/installation.html
+#### These are the instructions, summarized from https://unidata.github.io/unidata-python-workshop/installation.html
 
    1. **install** miniconda3 (the basic system, easily expanded) or anaconda (the big package with more than we need) from anaconda.com. The 3 refers to Python3; Python2 will be deprecated soon.
    
