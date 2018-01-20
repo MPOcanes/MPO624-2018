@@ -1,4 +1,4 @@
-# To gain the power of Jupyter + Python
+# To gain the power of Jupyter + Python,
 ## Set up Github and Miniconda3, from your PC or Mac
 
 ### I. Make your space on GitHub: 
