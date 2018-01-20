@@ -1,5 +1,5 @@
 # To gain the power of Jupyter + Python
-## Set up Miniconda3 and Github from your PC or Mac
+## Set up Github and Miniconda3, from your PC or Mac
 
 ### I. Make your space on GitHub: 
 
