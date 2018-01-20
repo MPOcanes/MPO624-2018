@@ -44,16 +44,17 @@ To do this, open the GitHub desktop app, and find where it says **Clone an exist
    
    2. Copy the workshop repo  https://github.com/Unidata/unidata-python-workshop onto your local machine. If you think you may want to contribute back to those materials, use **Fork** as in step II. If you just want a fixed copy, use **Clone or Download** (big green button). The installation page has other ways to get it -- you only need one of these. Again, put it in a meaningfully named directory — mine is (home)/Jupyter/unidata-python-workshop. 
 
-   3. To launch yourself into Jupyter, in unidata's workshop _environment_, you will need to open a **Terminal** in Mac or **Command Prompt** in Windows. Then, type these things there: 
+   3. To launch yourself into Jupyter, in unidata's workshop environment, you will need to open a **Terminal** in Mac or **Command Prompt** in Windows. Then, type these things there: 
    
-      * **cd (your_directory)/unidata-python-workshop**
+      * **cd /(your_folder_path)/unidata-python-workshop**
       * **conda env create -f environment.yml**
         * (This will take several minutes as the _environment_ is prepared -- downloading all the packages from the Web). 
       
-   * If all goes well, you can now activate this _environment_ (so all those packages are avalable), and launch! 
+   * Once the environment has been created, enter it with _activate_ (so that all those packages are avalable). 
       * Windows: **activate unidata-workshop**
       * Mac (bash shell): **source activate unidata-workshop**
+   * The moment of truth:
       * **jupyter notebook**
       
-      If it's all correct, a browser window should now pop up, with Jupyter running in it! You will see your file tree, beginning from the folder you launch jupyter in. **explore, learn to operate, and feel free to edit the notebooks/???.ipynb** files!
+If it's all correct, a browser window should now pop up, with Jupyter running in it! You will see your file tree, beginning from the folder you launch jupyter in. **explore, learn to operate, and feel free to edit the notebooks/???.ipynb** files!
 
