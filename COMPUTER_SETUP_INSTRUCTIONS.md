@@ -27,7 +27,7 @@
 -------------------------
 ### II. Fetch your Fork of the class repo onto your own machine
 
-Let's get your fork of the course (github.com/myname/MPO624-2018) onto your own computer — but in a way that you can easily keep synced as you work on it.  You also need a local copy in order to be able to merge in any changes I make to the master MPO6424/MPO624-2018 repo. 
+Let's get your fork of the course (github.com/myname/MPO624-2018) onto your own computer — but in a way that you can easily keep synced as you work on it. For reasons I don't understand (but clearly stated in the docs, so there must be reasons), you also need a local copy in order to be able to sync your Fork with the future goodies we will all be adding and improving in the course master MPO6424/MPO624-2018. 
 
 To do this, open the GitHub desktop app, and find where it says **Clone an existing project from GitHub to your computer**. You will have to select the directory name on your own computer. 
 
