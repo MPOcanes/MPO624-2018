@@ -1,4 +1,5 @@
-# To gain the power of Jupyter + Python,
+# To gain the power of Jupyter + Python, with a great set of examples you can build from,
+
 ## Set up Github and Miniconda3, from your PC or Mac
 
 ### I. Make your space on GitHub: 
