@@ -31,9 +31,9 @@ Let's get your fork of the course (github.com/myname/MPO624-2018) onto your own 
 
 To do this, open the GitHub desktop app, and find where it says **Clone an existing project from GitHub to your computer**. You will have to select the directory name on your own computer. 
 
-   *This folder will be special*: it will have some hidden files in there (starting with .git) to keep track of all those branches and forks and stuff. This helps you keep local verison control for yourself, and enables syncing with your Fork online. 
+   - *This folder will be special*: it will have some hidden files in there (starting with .git) to keep track of all those branches and forks and stuff. This helps you keep local verison control for yourself, and enables syncing with your Fork online. 
 
-      * Naming is worth a lot of thought. How will all this fit into your larger intellectual life (as mapped into your computer)? For myself, I think Jupyter notebooks are a huge future, and it is nice to have them all in one folder tree. So I will use the name (home)/Jupyter/MPO624-2018. 
+       - Naming is worth a lot of thought. How will all this fit into your larger intellectual life (as mapped into your computer)? For myself, I think Jupyter notebooks are a huge future, and it is nice to have them all in one folder tree. So I will use the name (home)/Jupyter/MPO624-2018. 
 
 ----------------------
 ### III. Install and launch Jupyter notebooks and Python, following the tracks of unidata-python-workshop
