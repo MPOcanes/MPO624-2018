@@ -11,7 +11,7 @@
    
       * **cd /(your_folder_path)/unidata-python-workshop**
       * **conda env create -f environment.yml**
-        * (This will take several minutes as the _environment_ is built, by downloading the requested set of Python packages from the Web). 
+        * (This will take several minutes as the unitata-workshop _environment_ is built, by downloading the requested set of libraries of modules from Python's package managers). 
       * Windows: **activate unidata-workshop**
       * Mac (bash shell): **source activate unidata-workshop**
 
