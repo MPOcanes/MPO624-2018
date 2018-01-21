@@ -4,7 +4,7 @@
 
    1. **install** miniconda3 (the basic system, easily expanded), or full Anaconda (a big package with more than we need), as explained at https://conda.io/docs/user-guide/install/index.html. 
    
-   2. Copy the workshop repository  https://github.com/Unidata/unidata-python-workshop onto your local machine. If you want a fixed copy, hit the big green **Clone or Download** button and get the .zip file. The installation page has other ways to get it too. 
+   2. Copy the workshop repository  https://github.com/Unidata/unidata-python-workshop onto your local machine. If you want a fixed copy, hit the big green **Clone or Download** button and get the .zip file. If you have a GitHub account, and want to potentially contrubute back to this workshop repository, you can Fork it. The installation page lined above has other ways to get it too. 
       - unzip it in a meaningfully named directory — mine is (home)/Jupyter/unidata-python-workshop
 
    3. Open a **Terminal** (in Mac) or **Command Prompt** (in Windows). Then, type these things there: 
