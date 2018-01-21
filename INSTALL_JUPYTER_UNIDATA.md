@@ -1,4 +1,4 @@
-## Set up Jupyter-Python on your PC or Mac, and get the starter pack from Unidata
+## Set up Jupyter+Python on your PC or Mac, and get the starter pack from Unidata
 
 #### These instructions are summarized from https://unidata.github.io/unidata-python-workshop/installation.html
 
