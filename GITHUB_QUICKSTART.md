@@ -18,5 +18,6 @@
 #### or dive into deeper training at https://services.github.com/on-demand/
 
 * Repository "branching" concepts (and command-line names for things) are nice and clear at: https://learngitbranching.js.org/ 
-         - git is a **minimum** set of rules needed for peers to collaborate on a thing. It's a fundamental aspect of group existence! Well worth the attention. You can do all our stuff more visually, from the desktop client (app), but the git command lines show the bare bones behind it. 
+         
+     - git is a **minimum** set of rules needed for peers to collaborate on a thing. It's a fundamental aspect of group existence! Well worth the attention. You can do all our stuff more visually, from the desktop client (app), but the git command lines show the bare bones behind it. 
 
