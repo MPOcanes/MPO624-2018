@@ -40,6 +40,7 @@
 #### Installable analysis frameworks
 * Python IDE's: Spyder, PyCharm
 * https://www.rstudio.com/
+   * run code from http://www.realclimate.org/index.php/archives/2018/01/the-claim-of-reduced-uncertainty-for-equilibrium-climate-sensitivity-is-premature/ fo instance
 * Matlab Live Script (cf. Jupyter notebook) 
 * GrADs 
 * NCL 
