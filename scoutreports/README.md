@@ -3,9 +3,8 @@
 ## Ideas for scouting demos - Computing
 
 ### General computing culture 
-* RSMAS lunch-bytes on github.com/milancuric
-* Flowcharts
-* Pseudocode 
+* Index, summarize, sample from RSMAS lunch-bytes on github.com/milancuric
+* Flowcharts and pseudocode 
 * Software Carpentry, Data Carpentry
 * Workflow management ideas/tools? 
 * HPC issues for Python 
