@@ -5,4 +5,5 @@ course schedule
 https://software-carpentry.org/lessons/
 
 intro to unix shell
+http://swcarpentry.github.io/shell-novice/
 
