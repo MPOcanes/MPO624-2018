@@ -14,3 +14,6 @@ connecting commands by using pipes "|"
 
 doing loops, create/edit shell scripts
 
+
+Collaborate with GIT
+
