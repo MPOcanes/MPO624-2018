@@ -1,5 +1,7 @@
 ## Types of figures 
 
+1. Schematic, map, flowchart, or other background or summary info
+
 1. Pure display of all the raw data (agnostic)
 
 1. Summary display of raw data (agnostic) 
