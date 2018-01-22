@@ -6,13 +6,7 @@ https://software-carpentry.org/lessons/
 
 
 intro to unix shell
-http://swcarpentry.github.io/shell-novice/
-
-navigating/ working with files and directories (ls, cd, pwd, mkdir)
-
-connecting commands by using pipes "|"
-
-doing loops, create/edit shell scripts
+http://swcarpentry.github.io/shell-novice/, navigating/ working with files and directories (ls, cd, pwd, mkdir),connecting commands by using pipes "|", doing loops, create/edit shell scripts
 
 
 Collaborate with GIT
