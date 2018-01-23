@@ -1,7 +1,10 @@
 # Make your space on GitHub!
 
-1. Install the desktop client (app) ~~https://desktop.github.com/~~ 
-   - For the moment you can still get the old app from https://central.github.com/mac/latest. RECOMMENDED! 
+1. Install the desktop client (app) ~~https://desktop.github.com/~~ They made it worse, methinks! 
+   - For the moment you can still get the older (CLEARER!) version 223 app 
+      - **Mac:** https://central.github.com/mac/latest
+      - **Windows:** https://github-windows.s3.amazonaws.com/GitHubSetup.exe
+      
    - While you're at it, install the text editor atom https://atom.io/
    
 2. Make an account on github.com (the desktop client will prompt you on launch, or you can go directly). 
