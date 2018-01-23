@@ -2,6 +2,7 @@
 
 1. Install the desktop client (app) ~~https://desktop.github.com/~~ 
    - For the moment you can still get the old app from https://central.github.com/mac/latest. RECOMMENDED! 
+   - Need PC client!!
    - While you're at it, install the text editor atom https://atom.io/
    
 2. Make an account on github.com (the desktop client will prompt you on launch, or you can go directly). 
