@@ -14,8 +14,8 @@ https://github.com/MPO624/MPO624-2018/blob/master/scoutreports/SoftwareCarpentry
 Keep watching the course repo as I improve it, studying a few notebooks in your live notebook server, and just making some time to work gently, curiously, gradually to understand the space of our computer materials (Jupyter, Python, GitHub). **As I am!**
 
 
-## But, ... The Purpose: **Applied** in ADA
-Tuesdays are reserved for the _theory_ of data analysis and the science it supports -- not computers (once we are all up and rolling, in the weeks ahead). 
+## But, ... The Purpose: The **Applied** in ADA
+Tuesdays are more for the _theory_ of data analysis and the science it supports -- not computers (once we are all up and rolling, in the weeks ahead). 
 
 To get a start on that, 
 
