@@ -9,6 +9,9 @@
    
 2. **Make an account** on github.com (the desktop client will prompt you on launch; or you can go directly in a browser). 
    - Link your desktop client to your GitHub account by typing your username and password into it. 
+   
+-----------------
+### Ready to fetch a starter repo, and collaborate? 
 
 3. **Fork** (click at upper right) any repo you want to interact with, on its GitHub.com page. 
    - For instance, the course https://github.com/MPO624/MPO624-2018. 
@@ -22,6 +25,7 @@
 
        - Naming is worth a lot of thought. How will all this fit into your larger intellectual life (as mapped into your computer)? For myself, I think Jupyter notebooks are a huge future, and it is nice to have them all in one folder tree. So I will use the name **(home)/Jupyter/MPO624-2018.** 
 
+------------------
 
 ### To learn more about GitHub, browse the guides at https://guides.github.com/
 #### or dive into deeper training at https://services.github.com/on-demand/
