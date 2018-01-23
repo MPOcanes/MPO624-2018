@@ -5,7 +5,6 @@ Name | email | github account URL | Clinic/meeting cannot-make times
 Brian Mapes | mapes@miami.edu | https://github.com/brianmapes | Not right before class: right after, or the day before
 Mampi Sarkar | mampi.sarkar@rsmas.miami.edu | https://github.com/mampi-sarkar |
 Rachel Zelinsky | rsodowsky@rsmas.miami.edu | https://github.com/rsodowsky |
-Michael Mihari | michael.f.mehari@noaa.gov |  |
 Kayla Besong | kab226@rsmas.miami.edu | https://github.com/kabesong
 Jesse Clark | jesse.clark@rsmas.miami.edu | https://github.com/jessegc | MW 1:30-2:45 TuTh 1:30-2:45
 Nektaria Ntaganou | nntaganou@rsmas.miami.edu | https://github.com/nectaria |
