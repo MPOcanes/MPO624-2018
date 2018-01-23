@@ -1,7 +1,7 @@
 week | Tuesdays | Thursdays | dates
 -----|----------|-----------|------
 1 | Intros      |Computer & github setup      |Jan 16-18
-2 | Notation    |Languages & skills           | 
+2 | Deconstruct a paper   |Languages & skills           | 
 3 | **Module 1**: stats |Distributions                | 
 4 | " : probability|Joint distributions        | 
 5 | " : cov,cor,reg| Regression              
