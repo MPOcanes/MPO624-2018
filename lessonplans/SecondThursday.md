@@ -54,10 +54,10 @@
     * import module (as shortname)
     * from module import submodule ... (as shortname)
   
-## plunge into some Jupyter notebooks 
+# plunge into some Jupyter notebooks 
   - and how to interrogate and adapt existing Python code in them
-
-## Jupyter: Help menu has it all
+  
+#### Jupyter: Help menu has it all, web has more. So much help!
 
 http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
@@ -66,7 +66,6 @@ https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 ## More on Python and the SciPy landscape
 
 http://www.scipy-lectures.org/
-
 https://github.com/jakevdp
 
 
