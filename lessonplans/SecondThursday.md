@@ -10,5 +10,8 @@ https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 
 ## More on Python and the SciPy landscape
+https://github.com/jakevdp
 http://www.scipy-lectures.org/
+
+
 
