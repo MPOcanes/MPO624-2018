@@ -8,7 +8,7 @@
 ## First things to know about Python
   * Case sensitive (capitalization matters!)
   * Indentation is meaningful (loops, conditions, function definition)
-  * \ for line continuation
+    * use \ for line continuation
   
   * Data types 
     * Dynamically typed (variable type is set when assigned, upcast when needed)
