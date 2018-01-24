@@ -1,28 +1,74 @@
 # Second thursday
 
-## Last bits of setup, and then plunge into Jupyter notebooks 
-  - and how to work with **existing** Python in them
-### Not from the beginning, but rather at a high level of science application
+## Last bits of setup
 
-## More on Jupyter
+  - Everyone got the 223 github client? 
+  - PC multiple desktops? 
+
+## First things to know about Python
+  * Case sensitive (capitalization matters!)
+  * Indentation is meaningful (loops, conditions, function definition)
+  * \ for line continuation
+  
+  * Data types 
+    * Dynamically typed (variable type is set when assigned, upcast when needed)
+      * Python3: all integers are long (can be squared as big as 32768)
+    * Strings in single or double quotes
+    * True and False and None
+  
+  * Lists and tuples: indexing starts from 0 
+    * Lists [] are ordered, mutable _(insert, remove, append)_
+    * Tuples() are ordered, **immutable** 
+    
+  * Arrays are in the numpy module, not basic Python 
+    * reshape, ravel, resize, squeeze(), etc. 
+    
+  * Dictionaries {key:value}. No order (no indexing).
+  
+  * Procedural approach: result = function(arguments, keywords)
+    * arguments by position, then optional keyword=value 
+    * 
+    
+  * Flow control
+    * if <condition>:    <-- Note Colon!
+        - action
+    * while <condition>:   <-- Note Colon!
+        - action that better change the condition!
+    * for <item> in <iterable>:  <-- Iterable may be a list, or range(n) from 0 to n 
+       - action  
+  * Exceptions and errors 
+    * try:    <-- Note Colon!
+        - action
+    * except:   <-- Note Colon!
+      - backup action
+    * raise (errortype) 
+
+  * Object oriented syntax: the . symbol
+    * An _object_ is an instance of a _class_
+    * object.something is an _attribute_
+    * object.method() makes the action happen 
+    * dir(object) shows all available methods/attributes for its class
+    * some have underscores like a.\_\_doc\_\_, "private" (definitional)
+    * class names follow the CapWords convention
+    
+  * Modules and namespaces
+    * import module (as shortname)
+    * from module import submodule ... (as shortname)
+  
+## plunge into some Jupyter notebooks 
+  - and how to interrogate and adapt existing Python code in them
+
+## Jupyter: Help menu has it all
+
 http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 
 ## More on Python and the SciPy landscape
-### First things to know about Python:
-  * Interpreted (not compiled), with integrated graphics
-  * Imports modules to do most high-level things
-  * Case sensitive (capitalization matters!)
-  * Indenting matters in flow control (loops, conditions) -- customarily, 4 spaces
-  * Assigns variables by reference, not by value
-  * Object-oriented with the . , but also procedural with the ()
-  * Has composite data types (lists, tuples, dictionaries)
-  * 
-
-https://github.com/jakevdp
 
 http://www.scipy-lectures.org/
+
+https://github.com/jakevdp
 
 
 
