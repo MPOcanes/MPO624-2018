@@ -12,8 +12,7 @@
   
   * Data types 
     * Dynamically typed (variable type is set when assigned, upcast when needed)
-      * Python3: all integers are long (can be squared as big as 32768)
-    * Strings in single or double quotes
+    * Strings in single or double quotes; triple it to verbatim special characters
     * True and False and None
   
   * Lists and tuples: indexing starts from 0 
