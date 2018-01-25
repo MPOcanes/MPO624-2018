@@ -45,7 +45,6 @@
     * class names follow the CapWords convention
     
   * Modules and namespaces
-  
     * import module (as shortname)
     * from module import submodule ... (as shortname)
   
