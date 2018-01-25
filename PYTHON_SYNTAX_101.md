@@ -1,4 +1,6 @@
 ## First things to know about Python
+#### Acknowledgements: Chapters 3 and 7 of http://www.johnny-lin.com/pyintro/
+
   * Case sensitive (capitalization matters!)
   * Indentation is meaningful (loops, conditions, function definition)
     * use \ for line continuation
