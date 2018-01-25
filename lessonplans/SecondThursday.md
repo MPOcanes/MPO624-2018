@@ -72,8 +72,9 @@
 
 ## More on Python and the SciPy landscape
 
-http://www.scipy-lectures.org/
-https://github.com/jakevdp
+  - http://www.scipy-lectures.org/
+
+  - https://github.com/jakevdp
 
 
 
