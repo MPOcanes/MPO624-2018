@@ -3,7 +3,14 @@
 ## Last bits of setup
 
   - Everyone got the 223 github client? 
-  - PC multiple desktops? 
+  - PC multiple desktops, window clearing? (native on Windows 10)
+  
+## Another "Landscape" Graphic 
+
+  - Orientation to CS vs. Python vs. ADA-for-AOS: The web is ally, not friend
+  - **Books** for the early journey
+    - handouts from johnny-lin.com/intropy
+    - advert for DeCaria (sundog press) 
 
 ## First things to know about Python
   * Case sensitive (capitalization matters!)
