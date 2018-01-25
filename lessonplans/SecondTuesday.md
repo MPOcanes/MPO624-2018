@@ -22,5 +22,4 @@ To get a start on that,
 # Assignment 
 https://github.com/MPO624/MPO624-2018/tree/master/assignments/Intro-deconstruct-figure-set
 
-### People with MS degrees already and literature to draw on: for next Thursday. 
-### All others: for next Tuesday. 
+### For next Tuesday. 
