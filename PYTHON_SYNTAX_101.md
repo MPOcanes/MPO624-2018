@@ -19,11 +19,7 @@
     
   * Dictionaries {key:value}. No order (no indexing).
   
-  * Procedural approach: result = function(arguments, keywords)
-    * arguments by position, then optional keyword=value 
-    * 
-    
-  * Flow control
+   * Flow control
     * if <condition>:    <-- Note Colon!
         - action
     * while <condition>:   <-- Note Colon!
@@ -37,6 +33,9 @@
       - backup action
     * raise (errortype) 
 
+  * Procedural syntax: result = function(arguments, keywords)
+    * arguments by position, then optional keyword=value 
+ 
   * Object oriented syntax: the . symbol
     * An _object_ is an instance of a _class_
     * object.something is an _attribute_
