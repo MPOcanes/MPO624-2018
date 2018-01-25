@@ -3,7 +3,14 @@
 ## Last bits of setup
 
   - Everyone got the 223 github client? 
-  - PC multiple desktops? 
+  - PC multiple desktops, window clearing? (native on Windows 10)
+  
+## Another "Landscape" Graphic 
+
+  - Orientation to CS vs. Python vs. ADA-for-AOS: The web is ally, not friend
+  - **Books** for the early journey
+    - handouts from johnny-lin.com/intropy
+    - advert for DeCaria (sundog press) 
 
 ## First things to know about Python
   * Case sensitive (capitalization matters!)
@@ -57,16 +64,17 @@
 # plunge into some Jupyter notebooks 
   - and how to interrogate and adapt existing Python code in them
   
-#### Jupyter: Help menu has it all, web has more. So much help!
-
-http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
-https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
-https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+## Jupyter: Help menu has it all, web has more. So much help!
+### Why do I privelege these few? Random
+  - http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+  - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+  - https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 
 ## More on Python and the SciPy landscape
 
-http://www.scipy-lectures.org/
-https://github.com/jakevdp
+  - http://www.scipy-lectures.org/
+
+  - https://github.com/jakevdp
 
 
 
