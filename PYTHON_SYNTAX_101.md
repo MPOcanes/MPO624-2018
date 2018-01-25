@@ -47,5 +47,6 @@
   * Modules and namespaces
   
     * import module (as shortname)
+    
     * from module import submodule ... (as shortname)
   
