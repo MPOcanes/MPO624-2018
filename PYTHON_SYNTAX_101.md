@@ -12,7 +12,7 @@
   
   * Lists and tuples: indexing starts from 0 
     * Lists [] are ordered, mutable _(insert, remove, append)_
-    * Tuples() are ordered, **immutable** 
+    * Tuples() are ordered, immutable 
     
   * Arrays are in the numpy module, not basic Python 
     * reshape, ravel, resize, squeeze(), etc. 
