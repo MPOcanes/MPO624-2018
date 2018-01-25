@@ -66,9 +66,9 @@
   
 ## Jupyter: Help menu has it all, web has more. So much help!
 ### Why do I privelege these few? Random
-  -http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
-  -https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
-  -https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+  - http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+  - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+  - https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 
 ## More on Python and the SciPy landscape
 
