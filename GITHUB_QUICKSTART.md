@@ -1,5 +1,6 @@
 # Make your space on GitHub!
 
+=======
 1. **Install** the desktop client (app) ~~https://desktop.github. com/~~  
    - The older (CLEARER!) version 223 app is MUCH better in my opinion. 
       - **Mac:** https://central.github.com/mac/latest
