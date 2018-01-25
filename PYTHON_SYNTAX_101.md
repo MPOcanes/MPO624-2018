@@ -43,8 +43,8 @@
     * dir(object) shows all available methods/attributes for its class
     * some have underscores like a.\_\_doc\_\_, "private" (definitional)
     * class names follow the CapWords convention
-    
+   
   * Modules and namespaces
-    * import module (as shortname)
-    * from module import submodule ... (as shortname)
+    - import module (as shortname)
+    - from module import submodule ... (as shortname)
   
