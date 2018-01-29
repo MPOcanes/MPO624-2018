@@ -37,3 +37,8 @@
          
      - git and GitHub.com compris a minimalist set of rules and protocols for peers to collaborate on a thing. It's a fundamental aspect of group existence! Well worth the attention, although the brainfeel is awkward at first and the terminology is geeky. You can do all our stuff more visually, from the desktop client (app), but learning the git command lines show the bare bones behind it, and over time you may want to invest the brain space to memorize the command set. 
 
+-----------------
+## Other git clients I have heard recommended
+
+https://www.gitkraken.com/
+https://www.sourcetreeapp.com/
