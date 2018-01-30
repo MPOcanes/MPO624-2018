@@ -17,3 +17,4 @@
   - e. Decomposition is illustrated (part related to whole) 
  
  
+ 
