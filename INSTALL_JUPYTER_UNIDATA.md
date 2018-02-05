@@ -1,7 +1,7 @@
 ## Set up Jupyter+Python on your PC or Mac
 ### and get the "workshop" starter pack of notebooks from Unidata
 
-#### These instructions are summarized from https://unidata.github.io/unidata-python-workshop/installation.html, more dtail can be found there.
+#### These instructions are summarized from https://unidata.github.io/unidata-python-workshop/installation.html. More detail can be found there.
 
 --------------
 
