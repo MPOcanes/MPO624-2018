@@ -19,8 +19,8 @@
         * This will take several minutes as the unidata-workshop-mapes _environment_ is built by downloading the requested set of modules from Python's package managers. 
 
    * Enter (or _activate_) the environment where those packages have been installed:
-      * Windows: **activate unidata-workshop**
-      * Mac (bash shell): **source activate unidata-workshop**
+      * Windows: **activate unidata-workshop-mapes**
+      * Mac (bash shell): **source activate unidata-workshop-mapes**
    * The moment of truth! 
       * **jupyter notebook**
       
