@@ -51,4 +51,4 @@
     * from module import submodule ... (as shortname)
     * modules are objects: they have attribiutes and methods
       * Hover over an object and hit _shift+tab_ in Jupyter to see its definition
-      * Hover to the right of . and hig _tab_ to see autocomplete help on its available attributes and methods
+      * Hover to the right of . and hit _tab_ to see autocomplete help on its available attributes and methods
