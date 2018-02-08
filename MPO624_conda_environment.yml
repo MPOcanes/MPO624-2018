@@ -1,0 +1,29 @@
+ name: MPO624
+ channels:
+   - conda-forge
+   - damianavila82
+ dependencies:
+   - python=3
+   - rise
+   - numpy
+   - matplotlib
+   - jsanimation
+   - scikit-learn
+   - cartopy
+   - jupyter
+   - seaborn
+   - netcdf4
+   - owslib
+   - metpy
+   - pint
+   - shapely<=1.5.17
+   - siphon
+   - xarray
+   - pip
+   - ffmpeg
+   - pytest
+   - ipywidgets
+   - pip:
+     - python-awips
+     - mpldatacursor
+     - drilsdown
