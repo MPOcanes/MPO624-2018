@@ -1,29 +1,31 @@
 ## First things to know about Python
 #### Acknowledgements: Chapters 3 and 7 of http://www.johnny-lin.com/pyintro/
 
-  * Case sensitive (capitalization matters!)
-  * Indentation is meaningful (loops, conditions, function definition)
-    * use \ for line continuation
+  * _Case sensitive_ (capitalization matters!)
+  * _Indentation is meaningful_ (loops, conditions, function definition)
+    * unless you see \ at the end of the previous line
+      * thus, \ allows arbitrary indents, for clarity, of multi-line long statements 
+  * Multiple commands can be on a line separated by ;
   
   * Data types 
-    * Dynamically typed (variable type is set when assigned, upcast when needed)
-    * Strings in single or double quotes; triple it to verbatim special characters
-    * True and False and None
+    * _Dynamically typed_ (variable type is set when assigned, upcast when needed)
+    * _Strings_ are in single or double quotes; triple it to verbatim special characters
+    * _True, False_ and _None_ are Boolean and empty values
   
-  * Lists and tuples: indexing starts from 0 
-    * Lists [] are ordered, mutable _(insert, remove, append)_
+  * _Lists and tuples_. Indexing starts from 0. [0:1] means ONLY the first element
+    * Lists [] are ordered, mutable _(you can insert, remove, append)_
     * Tuples() are ordered, immutable 
     
-  * Arrays are in the numpy module, not basic Python 
+  * _Arrays_ are in the numpy module, not basic Python 
     * reshape, ravel, resize, squeeze(), etc. 
     
-  * Dictionaries {key:value}. No order (no indexing).
+  * _Dictionaries_ are unordered sets of {key:value} pairs. 
   
-   * Flow control
+   * _Flow control_
     * if <condition>:    <-- Note Colon!
         - action
     * while <condition>:   <-- Note Colon!
-        - action that better change the condition!
+        - action that had better change the condition!
     * for <item> in <iterable>:  <-- Iterable may be a list, or range(n) from 0 to n 
        - action  
   * Exceptions and errors 
@@ -31,19 +33,23 @@
         - action
     * except:   <-- Note Colon!
       - backup action
+                    
     * raise (errortype) 
 
-  * Procedural syntax: result = function(arguments, keywords)
-    * arguments by position, then optional keyword=value 
+  * _Procedural syntax_: result = function(arguments, keywords)
+    * arguments must be present, ordered by position; then _keyword=value,..._ optionally in any order 
  
-  * Object oriented syntax: the . symbol
+  * _Object oriented syntax_: the . symbol
     * An _object_ is an instance of a _class_
     * object.something is an _attribute_
-    * object.method() makes the action happen 
+    * object.method() calls the method (makes its action happen) 
     * dir(object) shows all available methods/attributes for its class
-    * some have underscores like a.\_\_doc\_\_, "private" (definitional)
-    * class names follow the CapWords convention
+    * some core methods have underscores like a.\_\_doc\_\_ are "private" (definitional). Don't mess with these. 
+    * _class_ names follow the CapWords convention
    
-  * Modules and namespaces
+  * _Modules and namespaces_: The heart of Python's power
     * import module (as shortname) 
     * from module import submodule ... (as shortname)
+    * modules are objects: they have attribiutes and methods
+      * Hover over an object and hit _shift+tab_ in Jupyter to see its definition
+      * Hover to the right of . and hit _tab_ to see autocomplete help on its available attributes and methods
