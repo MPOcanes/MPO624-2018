@@ -1,6 +1,6 @@
 # Assignments for basic statistics.
 
-## First sub-part: For Thursday week from assignment
+## First sub-part: First Thursday after first assignment
 
 1. operate Leo's _distributions_ notebook shown in class, learn its lessons, study how it works.
 2. From the File menu, Make a copy and then Rename it. 
