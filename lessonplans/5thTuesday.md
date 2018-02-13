@@ -1,10 +1,10 @@
 # Second week of basic stats
 
-### A couple scouting reports! Let's look at them. And assign some more...
+1. A couple scouting reports! Let's look at them. And assign some more...
 
-### How's the distributions - histograms - scatterplots assignment coming? 
+2. How's the histograms-kernels-scatterplots assignment (our first sub-lab) coming? For Thursday.
 
-## Rationality's simplest tool for measuring its simplest form (linear) of a relationship: the function XY
+## Rationality's simplest tool for measuring its simplest relationship: XY
 
 ### Whiteboard example of cov-cor-reg for continuous data
 
