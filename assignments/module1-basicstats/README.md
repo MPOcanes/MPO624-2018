@@ -2,7 +2,7 @@
 
 ## First sub-part: First Thursday after first assignment
 
-1. operate Leo's _distributions_ notebook shown in class, learn its lessons, study how it works.
+1. Operate Leo's _distributions_ notebook shown in class. Learn its lessons, and study how it works.
 2. From the File menu, Make a copy and then Rename it. 
 3. Bring your own data into at least 2 of the notebook's plots. 
       * **This will require some study of data input methods!** You could take examples from other notebooks (like one of the Unidata ones) for now... but this will be the crucial area where homework becomes projects, so choose examples that relate to your project work (like netCDF files, for most of you -- unidata-workshop has examples of that). 
