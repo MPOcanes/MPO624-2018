@@ -22,7 +22,7 @@
 * Regression is _asymmetric_: Reg of Y on X reg(Y,X) is different from X on Y reg(X,Y)
 * Both _explain the same fractional variance_ (but of Y vs. of X, respectively)
 * There is another thing: the line in between. 
-  * An axis that maximizes the _joint variance_ X'^2 + Y'^2 
+  * An axis that maximizes the _joint variance_ (X'^2 + Y'^2)
   * Our first glimpse of an EOF!
   
   
