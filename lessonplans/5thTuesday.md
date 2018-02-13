@@ -8,14 +8,22 @@
 
 #### Whiteboard example
 
-1. Postulate your relationship!
+1. Postulate your relationship form, explicitly!
   - for scientific theory reasons (physical formulations)
   - for statistics theory reasons (parsimony, Occam's razor, _overfitting_ concerns) 
 
-2. Principles: 
-  - _maximizing how much the linear term captures_ 
-  - _minimizing the summed-square residual_
-  - **these are the same** 
+2. Apply principles: 
+  - parameter estimation: maximizing how much the postulated term captures (residue is _uncorrelated_)
+  - the "principle" of least squares (residue _size is minimized_) 
+  - **these are the same** but the first seems philosophically clearer 
+  
+#### Nutshell lessons
+
+* Regression is _asymmetric_: Reg of Y on X reg(Y,X) is different from X on Y reg(X,Y)
+* Both _explain the same fractional variance_ (but of Y vs. of X, respectively)
+* There is another thing: the line in between. 
+  * An axis that maximizes the _joint variance_ X'^2 + Y'^2 
+  * Our first glimpse of an EOF!
   
   
   
