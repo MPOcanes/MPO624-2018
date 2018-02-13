@@ -5,8 +5,8 @@ The course is all here. Fork it so you can contribute back!
 
 ### Software accounts and installs: 
 
-1.  https://github.com/MPO624/MPO624-2018/blob/master/INSTALL_JUPYTER_UNIDATA.md
-1. https://github.com/MPO624/MPO624-2018/blob/master/GITHUB_QUICKSTART.md
+1.  https://github.com/MPOcanes/MPO624-2018/blob/master/INSTALL_JUPYTER_UNIDATA.md
+1. https://github.com/MPOcanes/MPO624-2018/blob/master/GITHUB_QUICKSTART.md
 1. Install the IDV
    * Install the IDV nightly build from Undiata. https://www.unidata.ucar.edu/downloads/idv/nightly/index.jsp You will need to create a light sign-in, just so they know who’s using it. Great free software, my group (and Xingchen in class) are involved with integrating it into Jupyter notebooks. 
 1. Matlab 
