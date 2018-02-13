@@ -6,7 +6,7 @@
 
 ## Rationality's simplest tool for measuring its simplest form (linear) of a relationship: the function XY
 
-#### Whiteboard example
+### Whiteboard example of cov-cor-reg for continuous data
 
 1. Postulate your relationship form, explicitly!
   - for scientific theory reasons (physical formulations)
@@ -25,5 +25,10 @@
   * An axis that maximizes the _joint variance_ (X'^2 + Y'^2)
   * Our first glimpse of an EOF!
   
-  
+### Whiteboard example of contingency and its intuitive challenges for discrete outcomes
+
+Just count integers! 
+  - Probability formulas are toooooo slippery, all those numbers in [0,1]. 
+
+
   
