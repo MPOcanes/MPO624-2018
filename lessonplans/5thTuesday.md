@@ -25,7 +25,7 @@
   * An axis that maximizes the _joint variance_ (X'^2 + Y'^2)
   * Our first glimpse of an EOF!
   
-#### Scout or TA? _Mutual information_ theory
+#### Scout or TA? _Mutual information_ theory (or _maximum entropy_ principle)
 
 ### Whiteboard example of contingency and its intuitive challenges for discrete outcomes
 
