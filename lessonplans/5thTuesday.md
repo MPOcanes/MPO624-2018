@@ -27,10 +27,15 @@
   
 #### Scout or TA? _Mutual information_ theory (or _maximum entropy_ principle)
 
-### Whiteboard example of contingency and its intuitive challenges for discrete outcomes
+### Whiteboard example of contingency tables, and intuitive challenges for discrete outcomes
 
+"The Monty Hall Problem" 
+
+Medical applications: there's such a thing as too much screening!
+
+#### Nutshell lesson
 Just count integers! 
-  - Probability formulas are toooooo slippery, all those numbers in [0,1]. 
+  - Probability formulas are toooooo slippery, multiplying numbers in [0,1]. 
 
 
   
