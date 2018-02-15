@@ -16,7 +16,7 @@
    3. **Create** the unidata-workshop-mapes _environment_. This will take several minutes as the requested set of modules is downloaded from Python's package managers. To do this step, 
  
    - from Anaconda Navigator
-      - Select the *Environments* tab at left, and hit Import. Give your environment a name like unidata-workshop-mapes. For *Specification file*, find environment.yml in the folder of your downloaded package from step 2. 
+      - Select the *Environments* tab at left, and hit Import. Fined the *Specification file* environment.yml in the folder of your downloaded package from step 2. Importing will take a few minutes. 
 
    - Miniconda approach
       - Mac: open a **Terminal**, which should be running the bash shell
@@ -28,7 +28,7 @@
          * **conda env create -f environment.yml**
         
    4. Enter (or _activate_) the environment where those packages have been installed, and launch! 
-      * PC or Mac (Anaconda Navigator): Select the unidata-workshop-mapes environment, then double-click the jupyter logo
+      * Anaconda Navigator: In the **Home** tab at left, select the unidata-workshop-mapes environment, then double-click the jupyter logo
       
       * Mac (bash shell): **source activate unidata-workshop-mapes**, then **jupyter notebook**
       * Windows (command prompt approach): **activate unidata-workshop-mapes**, then **jupyter notebook**
