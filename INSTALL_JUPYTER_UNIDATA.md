@@ -28,7 +28,7 @@
          * **conda env create -f environment.yml**
         
    4. Enter (or _activate_) the environment where those packages have been installed, and launch! 
-      * Anaconda Navigator: In the **Home** tab at left, select the unidata-workshop-mapes environment, then double-click the jupyter logo
+      * Anaconda Navigator: In the **Home** tab at left, select the unidata-workshop-mapes "channel" (the Nacvigator's word for an _environment_, then double-click the jupyter logo
       
       * Mac (bash shell): **source activate unidata-workshop-mapes**, then **jupyter notebook**
       * Windows (command prompt approach): **activate unidata-workshop-mapes**, then **jupyter notebook**
