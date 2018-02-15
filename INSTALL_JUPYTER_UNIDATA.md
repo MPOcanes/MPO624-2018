@@ -46,4 +46,6 @@ Are you new to Python, but know some programming concepts? Consider my ultra-sum
 
 By the way, you can browse _static_ versions of all these same Unidata notebooks on GitHub.com: https://github.com/Unidata/unidata-python-workshop/tree/master/notebooks/Jupyter_Notebooks. 
 
-Excited? GitHub.com is full of so many more great executable notebooks! Web-search "jupyter gallery", and explore... If you like something, they are all free, just use the **Raw** button to download them. 
+Excited? GitHub.com is full of so many more great executable notebooks! Web-search "jupyter gallery", and explore... Or select related topics under [unidata's page](https://github.com/Unidata/unidata-python-workshop/). 
+
+If you find a .ipynb you like, right-click the **Raw** button to download it to your collection. 
