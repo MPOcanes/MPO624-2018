@@ -5,27 +5,33 @@
 
 --------------
 
-   1. **install** miniconda3 (the basic system, easily expanded), or full Anaconda (a big frozen package with more than we need), as explained at https://conda.io/docs/user-guide/install/index.html. 
+   1. **install** miniconda3 (the basic system, which gets expanded on demand), or full Anaconda (a big package with more than we need), as explained at https://conda.io/docs/user-guide/install/index.html. 
+      - **Windows users:** I must recommend Anaconda, which has a "Navigator" GUI for setting up environments and launching jupyter. I don't know enough about Windows's command-line interface and how paths are set to help you with the challenges of the miniconda approach.  
    
    2. **Clone** Unidata's great workshop materials, with a few of my touches, from https://github.com/brianmapes/unidata-python-workshop onto your local machine. To do this, hit the big green **Clone or Download** button and the **Download ZIP**.  
    
       - unzip it into a meaningfully named directory. You may want to rename the folder to something shorter than unidata-python-workshop-master, if you like. My own path fot it is _(home)/Jupyter/unidata-python-workshop_. 
 
-   3. Open a **Terminal** (in Mac) or **Command Prompt** (in Windows). Then, type these things there: 
-   
-      * **cd /(your_folder_path)/unidata-python-workshop-master** 
-         - (or whatever file path you chose for the unzipped materials)
-      * **conda env create -f environment.yml**
-        * This will take several minutes as the unidata-workshop-mapes _environment_ is built by downloading the requested set of modules from Python's package managers. 
+   3. Create the unidata-workshop-mapes _environment_. This will take several minutes as the requested set of modules is downloaded from Python's package managers. To do this step, 
+ 
+   - Mac: open a **Terminal**, which should be running the bash shell, and type these things:    
+         * **cd /(your_folder_path)/unidata-python-workshop-master** 
+            - (whatever file path you chose for the unzipped folder of materials)
+         * **conda env create -f environment.yml**
+         
+   - PC or Mac (if you installed full Anaconda package): From the Navigator, Environments area, Import and use the system finder to open the environment.yml file. 
 
-   * Enter (or _activate_) the environment where those packages have been installed:
-      * Windows: **activate unidata-workshop-mapes**
+   - PC (miniconda approach): open a **Command Prompt**, and type the same things as the Mac above
+
+   4. Enter (or _activate_) the environment where those packages have been installed, and launch! 
+      * PC or Mac (Anaconda Navigator): Select the unidata-workshop-mapes environment, then double-click the jupyter logo
+      
       * Mac (bash shell): **source activate unidata-workshop-mapes**
-   * The moment of truth! 
-      * **jupyter notebook**
+      * Windows (command prompt approach): **activate unidata-workshop-mapes**
+      * Either of the above: **jupyter notebook**
       
 ---------------------
-If you did it right, a browser window should now pop up, with localhost:8888... in the URL. This is the browser face of the jupyter notebook server, which is running on your own machine (called _localhost_). 
+If you did it right, a browser window should now pop up, with localhost:8888... in the URL. This is the browser face of the jupyter notebook server, which is running on your own local machine (which is called _localhost_). 
 
 ** Firefox broswer may not work as well as Chrome or Safari
 
