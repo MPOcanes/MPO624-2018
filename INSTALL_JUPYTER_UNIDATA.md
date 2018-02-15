@@ -5,30 +5,32 @@
 
 --------------
 
-   1. **install** miniconda3 (the basic system, which gets expanded on demand), or full Anaconda (a big package with more than we need), as explained at https://conda.io/docs/user-guide/install/index.html. 
-      - **Windows users:** I must recommend Anaconda, which has a "Navigator" GUI for setting up environments and launching jupyter. I don't know enough about Windows's command-line interface and how paths are set to help you with the challenges of the miniconda approach.  
+   1. **Install** [miniconda3](https://conda.io/miniconda.html) (the basic system, which you expand as needed), or full [Anaconda](https://www.anaconda.com/download/) (a big frozen set of packages, more than we need). 
    
-   2. **Clone** Unidata's great workshop materials, with a few of my touches, from https://github.com/brianmapes/unidata-python-workshop onto your local machine. To do this, hit the big green **Clone or Download** button and the **Download ZIP**.  
+      - **Windows users with little Command Prompt skill:** I recommend Anaconda, which has a **"Navigator"** GUI for setting up environments and launching jupyter. I just don't know enough about Windows to help you with the challenges of the PC miniconda approach.  
    
-      - unzip it into a meaningfully named directory. You may want to rename the folder to something shorter than unidata-python-workshop-master, if you like. My own path fot it is _(home)/Jupyter/unidata-python-workshop_. 
+   2. **Download** Unidata's great workshop materials with a few of my touches, from https://github.com/brianmapes/unidata-python-workshop onto your local machine. To do this, hit the big green **Clone or Download** button and the **Download ZIP**.  
+   
+      - unzip it into a meaningfully named directory. You may want to rename the folder to something shorter than unidata-python-workshop-master. My own path for it is _(home)/Jupyter/unidata-python-workshop_. 
 
-   3. Create the unidata-workshop-mapes _environment_. This will take several minutes as the requested set of modules is downloaded from Python's package managers. To do this step, 
+   3. **Create** the unidata-workshop-mapes _environment_. This will take several minutes as the requested set of modules is downloaded from Python's package managers. To do this step, 
  
-   - Mac: open a **Terminal**, which should be running the bash shell, and type these things:    
+   - from Anaconda Navigator: In the Environments area, hit Import, and use the system finder to open the environment.yml file from your downloaded package from step 2. 
+
+   - Miniconda approach
+      - Mac: open a **Terminal**, which should be running the bash shell
+      - Windows: open a **Command Prompt**
+      
+      - Both: type these things:    
          * **cd /(your_folder_path)/unidata-python-workshop-master** 
-            - (whatever file path you chose for the unzipped folder of materials)
+            - (whatever path you chose in step 2)
          * **conda env create -f environment.yml**
-         
-   - PC or Mac (if you installed full Anaconda package): From the Navigator, Environments area, Import and use the system finder to open the environment.yml file. 
-
-   - PC (miniconda approach): open a **Command Prompt**, and type the same things as the Mac above
-
+        
    4. Enter (or _activate_) the environment where those packages have been installed, and launch! 
       * PC or Mac (Anaconda Navigator): Select the unidata-workshop-mapes environment, then double-click the jupyter logo
       
-      * Mac (bash shell): **source activate unidata-workshop-mapes**
-      * Windows (command prompt approach): **activate unidata-workshop-mapes**
-      * Either of the above: **jupyter notebook**
+      * Mac (bash shell): **source activate unidata-workshop-mapes**, then **jupyter notebook**
+      * Windows (command prompt approach): **activate unidata-workshop-mapes**, then **jupyter notebook**
       
 ---------------------
 If you did it right, a browser window should now pop up, with localhost:8888... in the URL. This is the browser face of the jupyter notebook server, which is running on your own local machine (which is called _localhost_). 
