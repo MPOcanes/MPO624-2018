@@ -5,7 +5,7 @@
 
 --------------
 
-   1. **Install** [miniconda3](https://conda.io/miniconda.html) (the basic system, which you expand as needed), or full [Anaconda](https://www.anaconda.com/download/) (a big frozen set of packages, more than we need). 
+   1. **Install** [miniconda3](https://conda.io/miniconda.html) (the basic system, which you expand as needed), or full [Anaconda](https://www.anaconda.com/download/) (a big frozen set of packages, more than we need, and with a GUI interface). 
    
       - **Windows users with little Command Prompt skill:** I recommend Anaconda, which has a **"Navigator"** GUI for setting up environments and launching jupyter. I just don't know enough about Windows to help you with the challenges of the PC miniconda approach.  
    
@@ -15,13 +15,14 @@
 
    3. **Create** the unidata-workshop-mapes _environment_. This will take several minutes as the requested set of modules is downloaded from Python's package managers. To do this step, 
  
-   - from Anaconda Navigator: In the Environments area, hit Import, and use the system finder to open the environment.yml file from your downloaded package from step 2. 
+   - from Anaconda Navigator
+      - Select the *Environments* tab at left, and hit Import. Give your environment a name like unidata-workshop-mapes. For *Specification file*, find environment.yml in the folder of your downloaded package from step 2. 
 
    - Miniconda approach
       - Mac: open a **Terminal**, which should be running the bash shell
       - Windows: open a **Command Prompt**
       
-      - Both: type these things:    
+      - Type these things, in whichever case:    
          * **cd /(your_folder_path)/unidata-python-workshop-master** 
             - (whatever path you chose in step 2)
          * **conda env create -f environment.yml**
