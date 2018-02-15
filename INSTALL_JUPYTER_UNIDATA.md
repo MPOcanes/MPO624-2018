@@ -35,7 +35,7 @@
 ---------------------
 If you did it right, a browser window should now pop up, with localhost:8888... in the URL. This is the browser face of the jupyter notebook server, which is running on your own local machine (which is called _localhost_). 
 
-** Firefox broswer may not work as well as Chrome or Safari
+### Warning: Firefox broswer may not work as well as Chrome, some have found
 
 You will see a file tree, beginning from the folder where you launched **jupyter notebook**. You are ready to explore, and learn to operate and modify, the most valuable resource there: **notebooks/(folder)/xxxx.ipynb** files. Start with notebooks/Jupyter_Notebooks/... to learn to operate the notebooks. That is part of my recommended pathways for beginners: https://github.com/brianmapes/unidata-python-workshop/blob/master/notebooks/ABOUT_THESE_NOTEBOOKS.md. 
 
