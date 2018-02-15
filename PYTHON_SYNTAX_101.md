@@ -5,6 +5,7 @@
   * _Indentation is meaningful_ (loops, conditions, function definition)
     * unless you see \ at the end of the previous line
       * thus, \ allows arbitrary indents, for clarity, of multi-line long statements 
+  * Multiple commands can be on a line separated by ;
   
   * Data types 
     * _Dynamically typed_ (variable type is set when assigned, upcast when needed)
