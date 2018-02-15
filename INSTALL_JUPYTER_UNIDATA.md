@@ -38,12 +38,12 @@ If you did it right, a browser window should now pop up, with localhost:8888... 
 
 ### Warning: Firefox broswer may not work as well as Chrome, some have found
 
-You will see a file tree, beginning from the folder where you launched **jupyter notebook**. You are ready to explore, and learn to operate and modify, the most valuable resource there: **notebooks/(folder)/xxxx.ipynb** files. Start with notebooks/Jupyter_Notebooks/... to learn to operate the notebooks. That is part of my recommended pathways for beginners: https://github.com/brianmapes/unidata-python-workshop/blob/master/notebooks/ABOUT_THESE_NOTEBOOKS.md. 
+You will see a file tree, beginning from the folder where you launched **jupyter notebook**. You are ready to explore, and learn to operate and modify, the most valuable resource there: _notebooks/(folder)/xxxx.ipynb_ files. 
 
-Are you new to Python but know some programming concepts? Consider my ultra-summarized list of first things about _parsing_ python, well enough to understand and adjust notebooks, at https://github.com/MPO624/MPO624-2018/blob/master/PYTHON_SYNTAX_101.md. 
+Start with notebooks/Jupyter_Notebooks/... to learn to operate the notebooks. That is part of my recommended pathways for beginners: https://github.com/brianmapes/unidata-python-workshop/blob/master/notebooks/ABOUT_THESE_NOTEBOOKS.md. 
+
+Are you new to Python, but know some programming concepts? Consider my ultra-summarized list of first things about parsing python code, well enough to understand and adjust notebooks, at https://github.com/MPO624/MPO624-2018/blob/master/PYTHON_SYNTAX_101.md. 
 
 By the way, you can browse _static_ versions of all these same Unidata notebooks on GitHub.com: https://github.com/Unidata/unidata-python-workshop/tree/master/notebooks/Jupyter_Notebooks. 
 
 Excited? GitHub.com is full of so many more great executable notebooks! Web-search "jupyter gallery", and explore... If you like something, they are all free, just use the **Raw** button to download them. 
-
-This is going to change scientific communication forever...
