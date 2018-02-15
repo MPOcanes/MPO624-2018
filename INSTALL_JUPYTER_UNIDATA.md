@@ -32,8 +32,9 @@
       * Mac (bash shell): **source activate unidata-workshop-mapes**, then **jupyter notebook**
       * Windows (command prompt approach): **activate unidata-workshop-mapes**, then **jupyter notebook**
       
----------------------
 If you did it right, a browser window should now pop up, with localhost:8888... in the URL. This is the browser face of the jupyter notebook server, which is running on your own local machine (which is called _localhost_). 
+
+---------------------
 
 ### Warning: Firefox broswer may not work as well as Chrome, some have found
 
