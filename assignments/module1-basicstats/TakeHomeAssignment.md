@@ -1,6 +1,6 @@
 # Module 1 essentials
 ### Problems to do. Turn in next Tuesday. 
-### Mini-exam Tuesday will ask a few of the key points of it. 
+### An in-class mini-exam Tuesday (30 minutes) will ask a few of these key points. 
 
 1. Know the word _deviation_ or _perturbation_ (indicating that the mean of a variable has been removed). Know that in our field, _anomaly_ and _eddy_ are special words for deviations from _temporal_ and _spatial_ averages, respectively. Know the word _standardized_ (indicating that the deviation has been normalized by standard deviation: standardized variables are _unitless_). 
 
