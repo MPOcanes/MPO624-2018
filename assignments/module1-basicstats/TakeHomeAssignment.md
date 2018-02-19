@@ -6,7 +6,7 @@
 
 2. You should understand the following: 
 
-  a. The _value of a standardized variable_ is also called a _Z-score_. A _score_ is a number to be used in a test for statistical 'significance'. The Z-score is used in the [_Z test_](https://en.wikipedia.org/wiki/Z-test). When your sample is small (N<20 or so), you should instead use the t-score (which is a function of N as well as of your standardized value). The t-score goes into the [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test). 
+  a. The _value of a standardized variable_ is also called a _Z-score_. A _score_ is a number used in a test for statistical 'significance'. The Z-score is used in the [_Z test_](https://en.wikipedia.org/wiki/Z-test). When your sample is small (N<20 or so), you should instead use the t-score (which is a function of N as well as of your standardized value). The t-score goes into the [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test). 
   
   b. These _tests_ estimate the [p-value](https://en.wikipedia.org/wiki/P-value), which is _the probability that a randomly generated score **if the null hypothesis were true**_ would be of _equal or greater magnitude_ than the actual score you are testing for its 'significance'. That is, you are testing whether your data _falsifies your null hypothesis._ 
 
