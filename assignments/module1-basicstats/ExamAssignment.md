@@ -40,7 +40,7 @@ Decomposition, Reconstruction |
 _Postulated_ terms | 
 Residual term | 
 Partial reconstruction | 
-** Relationships ** | about **sets of pairs** of numbers
+**Relationships** | about **sets of pairs** of numbers
 Unrelated | 
 Orthogonal | 
 Linearly independent | 
