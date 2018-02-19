@@ -32,7 +32,7 @@ Variance |
 Standard deviation |
 RMS | 
 Standardized | 
-Covariance |
+Covariance or _Projection_ |
 Correlation coefficient (Pearson's r) |
 **Information content** | How many _independent pieces of information_ are in the data?
 DOFs (degrees of freedom)| 
@@ -83,12 +83,14 @@ First moment (mean) |
 Second moment (RMS) | 
 Third moment (related to skew) | 
 Skew or skewness | 
-**Multivariate probability density** | P(T,w) for definiteness: T in _K_ and w in _m/s_. w̅'̅T̅'̅ is a _heat flux_. 
+**Multivariate probability density** | Use P(T,w) for definiteness: T in _K_ and w in _m/s_. w̅'̅T̅'̅ is a _heat flux_. 
 Joint distribution | 
-What are P(T,w) units? | For  Answer: 
-Cross moment (related to covariance) | 
-Marginal distribution | 
-Conditional distribution | 
+What are P(T,w) units? | Answer: 
+Cross moment (covariance, our heat flux) | 
+Marginal distribution of T | 
+Conditional distribution of T at w= 1 m/s | 
+Units of marginal  | 
+Units of conditional | 
 Projection | 
 Independent | 
 Orthogonal | 
