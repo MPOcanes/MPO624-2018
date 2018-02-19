@@ -52,8 +52,9 @@ Prior |
 New information | 
 Posterior | 
 Bayes' theorem | 
-**Probability distribution** (discrete) | 
+**Probability distribution** | 
 Contingency table | 
+Monty Hall problem | 
 **Probability density** (continuous) | 
 First moment (related to mean) | 
 Second moment (related to variance) | 
