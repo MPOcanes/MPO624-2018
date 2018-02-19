@@ -12,7 +12,7 @@
 ### Vocabulary tables: 
 
 #### Data terms: Simple statistics and regression
-Term | Formula and meaning: primes and bars, or cor(), cov(), std(), var()
+Term | Formula and meaning: use X̅, Y̅, X̅'̅Y̅'̅ (cut & paste from here); or cor(), cov(), std(), var().
 -----|--------
 Mean | 
 Variance | 
