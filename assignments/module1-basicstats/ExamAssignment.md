@@ -1,4 +1,4 @@
-# Module 1 essentials
+# Module 1 essentials &#955;
 ### Problems to do. Turn in next Tuesday. 
 ### An in-class mini-exam Tuesday (30 minutes) will ask a few of these key points, so make sure they actually go in your head, and you understand them. 
 
@@ -19,43 +19,51 @@
 ### Vocabulary tables: 
 
 #### Data terms: Simple statistics and regression
-Term | Formula and meaning: use sets and primes and bars {X<sub>i</sub>}, X̅, X̅'̅Y̅'̅ (cut & paste from here); or use cor(X,Y), cov(X,Y), std(Y), var(Y). For the mini-exam **be ready to use both**, and to show that you can also **write the summation notation** if need be. 
+Term | Formula: use sets {X<sub>i</sub>}; use primes and bars like X̅, X̅'̅Y̅'̅; or use cor(X,Y), cov(X,Y), std(Y), var(Y). For the mini-exam be ready to use both, and also to write the summation notation (Σ for sums) if need be. Also write the _meaning_. 
 -----|--------
 Set of numbers | 
 Ordered " " " | 
 _Series_ (equally spaced " " " ") |
 Mean | 
+Deviation | 
+Anomaly | 
+Eddy |
 Variance | 
 Standard deviation |
 RMS | 
-Anomaly | 
-Eddy | 
-Perturbation | 
 Standardized | 
 Covariance |
 Correlation coefficient (Pearson's r) |
-Signal | 
-Noise | 
-Postulated terms | 
+**Information content** | How many _independent pieces of information_ are in the data?
+DOFs (degrees of freedom)| 
+Decomposition, Reconstruction |
+_Postulated_ terms | 
 Residual term | 
-Error |
-Bias | 
-Random error | 
-Independent variable or 'predictor' | 
-Dependent variable | 
-Linear regression coefficient | 
+Partial reconstruction | 
+** Relationships ** | about **sets of pairs** of numbers
 Unrelated | 
 Orthogonal | 
 Linearly independent | 
-Collinear | 
+Collinearity | 
 Redundant | 
-
+**Regression** | words about _linear_ regression 
+Independent variable or 'predictor' | 
+Dependent variable | 
+Regression coefficient (or _slope_) | 
+Signal | 
+Noise | 
+Error |
+Bias | 
+Random error | 
+The 'prediction' | 
+'Explained' variance | 
+Fraction of variance explained | Write forumla in terms of r: 
 
 #### Probability theory terms: 
 
-Term | Formula and meaning: functions P(X) P(X,Y) P(X\|Y), Integrals over infinite domain
+Term | Formula **and meaning**: P(X) P(X,Y) P(X"""|"""Y), Integrals ∫ or ∫∫ over infinite domain -∞ to ∞
 -----|--------
-**Interpretations of probability** | 
+**Interpretations of probability** | Frequentist vs. Bayesian 
 Frequentist | 
 Bayesian | 
 Prior |
