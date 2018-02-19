@@ -5,9 +5,9 @@
 
 --------------
 
-   1. **Install** [miniconda3](https://conda.io/miniconda.html) (the basic system, which you expand as needed), or full [Anaconda](https://www.anaconda.com/download/) (a big frozen set of packages, more than we need, and with a GUI interface). 
+   1. **Install** [miniconda3](https://conda.io/miniconda.html) (the basic system, which you expand as needed), or full [Anaconda](https://www.anaconda.com/download/) (a big frozen set of packages, more than we need, and with a GUI interface called **Navigator**.). 
    
-      - **Windows users with little Command Prompt skill:** I recommend Anaconda, which has a **"Navigator"** GUI for setting up environments and launching jupyter. I just don't know enough about Windows to help you with the challenges of the PC miniconda approach.  
+      - **Windows users with little Command Prompt skill:** _I recommend Anaconda, which has a **"Navigator"** GUI_ for setting up environments and launching jupyter. I just don't know enough about Windows to help you with the challenges of the PC miniconda approach.  
    
    2. **Download** Unidata's great workshop materials with a few of my touches, from https://github.com/brianmapes/unidata-python-workshop onto your local machine. To do this, hit the big green **Clone or Download** button and the **Download ZIP**.  
    
