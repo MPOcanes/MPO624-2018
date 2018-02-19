@@ -11,7 +11,7 @@
    
    2. **Download** Unidata's great workshop materials with a few of my touches, from https://github.com/brianmapes/unidata-python-workshop onto your local machine. To do this, hit the big green **Clone or Download** button and the **Download ZIP**.  (Or if you know what it means in GitHub, and think you will want to contribute back some improvements you make, you can **Fork** it.)
    
-      - unzip it into a meaningfully named directory. You may want to rename the folder to something shorter than unidata-python-workshop-master. My own path for it is _(home)/Jupyter/unidata-python-workshop_. 
+      - unzip it into a _meaningfully named_ directory in your _consciously considered_ folder tree. You may want to rename the folder to something shorter than unidata-python-workshop-master. My own path for it is `(home)/Jupyter/unidata-python-workshop`. 
 
    3. **Create** the unidata-workshop-mapes _environment_. This will take several minutes as the requested set of modules is downloaded from Python's package managers. To do this step, 
  
