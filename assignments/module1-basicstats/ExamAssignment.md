@@ -73,7 +73,7 @@ Posterior |
 Bayes' theorem | 
 **Probability distribution** | 
 Contingency table | 
-Monty Hall problem | 
+[Monty Hall problem](http://marilynvossavant.com/game-show-problem/) [Wiki](https://en.wikipedia.org/wiki/Monty_Hall_problem) | Too big for this little slot! Write on back. 
 **Probability density** (continuous) | 
 First moment (related to mean) | 
 Second moment (related to variance) | 
