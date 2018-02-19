@@ -10,19 +10,20 @@
   
   b. These _tests_ estimate the [p-value](https://en.wikipedia.org/wiki/P-value), which is _the probability that a **randomly generated** score **if the null hypothesis were true**_ would be of _equal or greater magnitude_ than the **actual score**  you are testing before your claim can be declared 'statistically significant'. That is, you are testing whether your data _falsifies your null hypothesis._ This is a weak and roundabout measure of the strength of evidence, and requires you to **explicily define your null hypothesis**. A serious student should laugh at [this cartoon](https://xkcd.com/882/); and more seriously should read and ponder [this paper](https://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3746.1) or other recent works on the [replication crisis in science](https://en.wikipedia.org/wiki/Replication_crisis), which partly attributed to the disreputable (but tempting) process of [_p-hacking_](https://en.wikipedia.org/wiki/Data_dredging). Understand this [cartoon](https://xkcd.com/1478/) and _don't be that person!_
 
-3. Know the definitions of cov(X,Y) = cov(Y,X), std(X) and std(Y), _r_ (the correlation coefficient), reg(Y,X) and reg(X,Y) which are **not equal**. Know the 
+3. Know about linear correlation and regression: Know the definitions of cov(X,Y) = cov(Y,X), std(X) and std(Y), and _r_ (the correlation coefficient). Know the definitions of reg(Y,X) and reg(X,Y), which are **not equal**. Know that the _fraction of variance explained by the linear regression term_ is equal to the **square of r**. 
 
-2. Know the _principle of least squares_. Know that, for simple regression, it is equivalent to the principle that _the regression term captures all of the linear relationship with the "predictor" (or "independent") variable_, so that _the residual is uncorrelated with the predictor variable_. Know how to explain these in your own words -- that is, how to _convince me_ that you really understand these principles!
+4. Know the _principle of least squares_. Show that it is equivalent to the principle that _the regression term captures all of the linear relationship with the "predictor" (or "independent") variable_, so that _the residual is uncorrelated with the predictor variable_. Know how to explain these principles in your own words -- that is, how to _convince me_ that you really understand them **correctly and completely** -- with extra stars for expressing that _concisely_. 
 
-3. Do the worksheet (TakeHomeAssignment.ipynb) which has the proper math symbols that Markdown can't display. 
-
-4. Understand these terms well enough to explain them in your own words (or perhaps math jots), **correctly and completely** -- with extra points for _concisely_. 
+5. Do the worksheet (ExamAssignment.ipynb) which has the proper math symbols that this .md file can't display. 
 
 ### Vocabulary tables: 
 
 #### Data terms: Simple statistics and regression
-Term | Formula and meaning: use X̅, Y̅, X̅'̅Y̅'̅ (cut & paste from here); or cor(), cov(), std(), var().
+Term | Formula and meaning: use sets and primes and bars {X<sub>i</sub>}, X̅, X̅'̅Y̅'̅ (cut & paste from here); or use cor(X,Y), cov(X,Y), std(Y), var(Y). For the mini-exam **be ready to use both**, and to show that you can also **write the summation notation** if need be. 
 -----|--------
+Set of numbers | 
+Ordered " " " | 
+_Series_ (equally spaced " " " ") |
 Mean | 
 Variance | 
 Standard deviation |
