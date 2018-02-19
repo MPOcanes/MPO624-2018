@@ -40,8 +40,10 @@ Linearly independent |
 Collinear | 
 Redundant | 
 
+
 #### Probability theory terms: 
-Term | Formula and meaning: functions P(X) P(X,Y) P(X|Y), Integrals over infinite domain
+
+Term | Formula and meaning: functions P(X) P(X,Y) P(X\|Y), Integrals over infinite domain
 -----|--------
 **Interpretations of probability** | 
 Frequentist | 
