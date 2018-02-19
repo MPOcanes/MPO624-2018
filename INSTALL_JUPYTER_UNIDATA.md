@@ -9,7 +9,7 @@
    
       - **Windows users with little Command Prompt skill:** _I recommend Anaconda, which has a **"Navigator"** GUI_ for setting up environments and launching jupyter. I just don't know enough about Windows to help you with the challenges of the PC miniconda approach.  
    
-   2. **Download** Unidata's great workshop materials with a few of my touches, from https://github.com/brianmapes/unidata-python-workshop onto your local machine. To do this, hit the big green **Clone or Download** button and the **Download ZIP**.  
+   2. **Download** Unidata's great workshop materials with a few of my touches, from https://github.com/brianmapes/unidata-python-workshop onto your local machine. To do this, hit the big green **Clone or Download** button and the **Download ZIP**.  (Or if you know what it means in GitHub, and think you will want to contribute back some improvements you make, you can **Fork** it.)
    
       - unzip it into a meaningfully named directory. You may want to rename the folder to something shorter than unidata-python-workshop-master. My own path for it is _(home)/Jupyter/unidata-python-workshop_. 
 
