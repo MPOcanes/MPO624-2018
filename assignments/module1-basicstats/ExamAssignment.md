@@ -2,7 +2,7 @@
 ### Problems to do. Turn in next Tuesday. 
 ### An in-class mini-exam Tuesday (30 minutes) will ask a few of these key points, so make sure they actually go in your head, and you understand them. 
 
-1. Know the word _deviation_ or _perturbation_ (indicating that the _mean_ of your set of numbers has been subtracted). Know that in our field, _anomaly_ is a deviation from a _temporal_ average, and an _eddy_ is a deviation from a _spatial_ average. Know the word _standardized_ (indicating that the deviation has been divided by standard deviation: this makes standardized variables _unitless_). 
+1. Know the word _deviation_ or _perturbation_ (indicating that the _mean_ of your set of numbers has been subtracted). Know that in our field, _anomaly_ means a deviation from a _time_ average, while _eddy_ means a deviation from a _spatial_ average. Know the adjective  _standardized_ (indicating a deviation that has been divided by the _standard deviation_: this makes standardized variables _unitless_). 
 
 2. You should understand the following: 
 
