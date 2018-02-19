@@ -1,7 +1,16 @@
 # Module 1 essentials
-### Problems to do. Turn in next Tuesday. Mini-exam Tuesday will ask a few of the key points of it. 
+### Problems to do. Turn in next Tuesday. 
+### Mini-exam Tuesday will ask a few of the key points of it. 
 
-1. Know the definitions of cov(X,Y) = cov(Y,X), std(X) and std(Y), _r_ (the correlation coefficient), reg(Y,X) and reg(X,Y) which are **not equal**. Know the word _anomaly_ or _perturbation_ (indicating that the mean of a variable has been removed), and the word _standardized_ (indicating that the anomaly has been normalized by standard deviation, making a _unitless_ quantity). 
+1. Know the word _deviation_ or _perturbation_ (indicating that the mean of a variable has been removed). Know that in our field, _anomaly_ and _eddy_ are special words for deviations from _temporal_ and _spatial_ averages, respectively. Know the word _standardized_ (indicating that the deviation has been normalized by standard deviation: standardized variables are _unitless_). 
+
+2. You should understand the following: 
+
+  a. The _value of a standardized variable_ is also called a _Z-score_. A _score_ is a number to be used in a test for statistical 'significance'. The Z-score is used in the [_Z test_](https://en.wikipedia.org/wiki/Z-test). When your sample is small (N<20 or so), you should instead use the t-score (which is a function of N as well as of your standardized value). The t-score goes into the [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test). 
+  
+  b. These _tests_ estimate the [p-value](https://en.wikipedia.org/wiki/P-value), which is _the probability that a randomly generated score **if the null hypothesis were true**_ would be of _equal or greater magnitude_ than the actual score you are testing for its 'significance'. That is, you are testing whether your data _falsifies your null hypothesis._ 
+
+3. Know the definitions of cov(X,Y) = cov(Y,X), std(X) and std(Y), _r_ (the correlation coefficient), reg(Y,X) and reg(X,Y) which are **not equal**. Know the 
 
 2. Know the _principle of least squares_. Know that, for simple regression, it is equivalent to the principle that _the regression term captures all of the linear relationship with the "predictor" (or "independent") variable_, so that _the residual is uncorrelated with the predictor variable_. Know how to explain these in your own words -- that is, how to _convince me_ that you really understand these principles!
 
