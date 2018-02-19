@@ -57,7 +57,7 @@ Bias |
 Random error | 
 The 'prediction' | 
 'Explained' variance | 
-Fraction of variance explained | Write forumla in terms of r: 
+Fraction of variance explained | Write formula in terms of r: 
 
 #### Probability theory terms: 
 Give the formula **and meaning**, using P(X) P(X,Y) P(X &#124; Y), and integrals ∫ or ∫∫ over infinite domain -∞ to ∞
