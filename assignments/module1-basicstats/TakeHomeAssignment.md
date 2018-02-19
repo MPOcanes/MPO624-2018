@@ -6,9 +6,9 @@
 
 2. You should understand the following: 
 
-  a. The _value of a standardized variable_ is also called a _Z-score_. A _score_ is a number used in a test for statistical 'significance'. The Z-score is used in the [_Z test_](https://en.wikipedia.org/wiki/Z-test). When your sample is small (N<20 or so), you should instead use the t-score (which is a function of N as well as of your standardized value). The t-score goes into the [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test). 
+  a. The _value of a standardized variable_ is also called a _Z-score_. A _score_ is a number used in a test for 'statistical significance', a meaasure of the _confidence_ you should have in some _claim_ based on data. The Z-score is used in the [_Z test_](https://en.wikipedia.org/wiki/Z-test). When your sample is small (N<20 or so), you should instead use the _t-score_ (which is a function of N, as well as of the standardized value; it asymptotes to the Z-score for large N). The t-score is used in the [_Student's t-test_](https://en.wikipedia.org/wiki/Student%27s_t-test), the most famous test in statistics. 
   
-  b. These _tests_ estimate the [p-value](https://en.wikipedia.org/wiki/P-value), which is _the probability that a randomly generated score **if the null hypothesis were true**_ would be of _equal or greater magnitude_ than the actual score you are testing for its 'significance'. That is, you are testing whether your data _falsifies your null hypothesis._ 
+  b. These _tests_ estimate the [p-value](https://en.wikipedia.org/wiki/P-value), which is _the probability that a **randomly generated** score **if the null hypothesis were true**_ would be of _equal or greater magnitude_ than the **actual score**  you are testing before your claim can be declared 'statistically significant'. That is, you are testing whether your data _falsifies your null hypothesis._ 
 
 3. Know the definitions of cov(X,Y) = cov(Y,X), std(X) and std(Y), _r_ (the correlation coefficient), reg(Y,X) and reg(X,Y) which are **not equal**. Know the 
 
