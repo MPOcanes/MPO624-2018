@@ -11,7 +11,7 @@
 
 ## Sub-part II: Due the Thursday after assignment
 
-Operate and complete the multiple linear regression notebook. 
+Operate and complete the multiple_regression_collinear_predictors notebook. 
 
 ## Sub-part III: Due Tuesday after end of module, when mini-exam (30 minutes) will be given as well. 
 
