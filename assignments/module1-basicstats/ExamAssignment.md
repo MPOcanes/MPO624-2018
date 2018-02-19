@@ -60,9 +60,9 @@ The 'prediction' |
 Fraction of variance explained | Write forumla in terms of r: 
 
 #### Probability theory terms: 
+Give the formula **and meaning**, using P(X) P(X,Y) P(X &#124; Y), and integrals ∫ or ∫∫ over infinite domain -∞ to ∞
 
-Term | Formula **and meaning**: P(X) P(X,Y) P(X &#124;
-Y), Integrals ∫ or ∫∫ over infinite domain -∞ to ∞
+Term | 
 -----|--------
 **Interpretations of probability** | Frequentist vs. Bayesian 
 Frequentist | 
