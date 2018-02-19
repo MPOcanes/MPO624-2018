@@ -19,7 +19,7 @@
 ### Vocabulary tables: 
 
 #### Data terms: Simple statistics and regression
-Term | Formula: use sets {X<sub>i</sub>}; use primes and bars like X̅, X̅'̅Y̅'̅; or use cor(X,Y), cov(X,Y), std(Y), var(Y). For the mini-exam be ready to use both, and also to write the summation notation (Σ for sums) if need be. Also write the _meaning_. 
+Term | Formula: use sets {X<sub>i</sub>}; use primes and bars like X̅, X̅'̅Y̅'̅; or use cor(X,Y), cov(X,Y), std(Y), var(Y). For the mini-exam be ready to use both, and also to write the summation notation (Σ for sums) if need be. Also write the _meaning_. Overline ̅.
 -----|--------
 Set of numbers | 
 Ordered " " " | 
@@ -75,12 +75,17 @@ Bayes' theorem |
 Contingency table | 
 [Monty Hall problem](http://marilynvossavant.com/game-show-problem/) [Wiki](https://en.wikipedia.org/wiki/Monty_Hall_problem) | Too big for this little slot! Write on back. 
 **Probability density** (continuous) | 
-First moment (related to mean) | 
-Second moment (related to variance) | 
+Expectation value (mean) | 
+Maximum likelihood (median) | 
+Likelihood | 
+What are P(T) units? | For temperature T in K? Answer: 
+First moment (mean) | 
+Second moment (RMS) | 
 Third moment (related to skew) | 
 Skew or skewness | 
-**Multivariate** 
+**Multivariate probability density** | P(T,w) for definiteness: T in _K_ and w in _m/s_. w̅'̅T̅'̅ is a _heat flux_. 
 Joint distribution | 
+What are P(T,w) units? | For  Answer: 
 Cross moment (related to covariance) | 
 Marginal distribution | 
 Conditional distribution | 
