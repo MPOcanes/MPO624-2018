@@ -13,7 +13,8 @@
 
 Operate and complete the multiple_regression_collinear_predictors notebook. 
 
-## Sub-part III: Due Tuesday after end of module, when mini-exam (30 minutes) will be given as well. 
+## Sub-part III: Due Tuesday after end of module
+### Mini-exam (30 minutes) will be given that day, as well. 
 
 See TakeHomeAssignment.md here. 
 
