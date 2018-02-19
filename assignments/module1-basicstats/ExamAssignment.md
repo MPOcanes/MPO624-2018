@@ -1,4 +1,4 @@
-# Module 1 essentials &#955;
+# Module 1 essentials 
 ### Problems to do. Turn in next Tuesday. 
 ### An in-class 💦 mini-exam Tuesday (30 minutes) will ask a few of these key points, so make sure they actually go in your head, and you understand them. 
 
