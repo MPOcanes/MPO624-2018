@@ -7,6 +7,13 @@
 3. Show again the IDV, how to get data from it, and how to use xarray (instead of bare-bones netCDF reading) to get one's data. 
 
 4. Find out how and why scatter plots are colored in the first notebook. 
+'
+
 
 Scout assignments? Falling behind on this intention... 
+
+Higher level approach to data access: xarray
+
+Higher level access to geographic plotting and multidimensional data 
+http://geo.holoviews.org/user_guide/Gridded_Datasets_I.html
 
