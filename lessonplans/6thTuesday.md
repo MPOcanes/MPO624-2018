@@ -16,4 +16,8 @@ Higher level approach to data access: xarray
 
 Higher level access to geographic plotting and multidimensional data 
 http://geo.holoviews.org/user_guide/Gridded_Datasets_I.html
+But first, load them into the environment. I added them to 
+https://github.com/MPOcanes/MPO624-2018/blob/master/MPO624_conda_environment.yml
+
+conda env _update_ -f MPO624_conda_environment.yml
 
