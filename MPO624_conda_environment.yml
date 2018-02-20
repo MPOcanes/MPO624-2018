@@ -2,6 +2,7 @@
  channels:
    - conda-forge
    - damianavila82
+   - ioam
  dependencies:
    - python=3
    - rise
