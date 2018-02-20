@@ -8,11 +8,11 @@
 
   a. The _value of a standardized variable_ is also called a _Z-score_. A **score** is a number used in a test for 'statistical significance', which is a meaasure of the _confidence_ you should have in some _claim_ based on data. The Z-score is used in the [_Z test_](https://en.wikipedia.org/wiki/Z-test). When your sample is small (N<20 or so), you should instead use the _t-score_ (which is a function of N, as well as of the standardized value; it asymptotes to the Z-score for large N). The t-score is used in the [_Student's t-test_](https://en.wikipedia.org/wiki/Student%27s_t-test), the most famous test in statistics. 
   
-  b. These _tests_ estimate the [p-value](https://en.wikipedia.org/wiki/P-value), which is _the probability that a **randomly generated** score **if the null hypothesis were true**_ would be of _equal or greater magnitude_ than the **actual score**  you are testing before your claim can be declared 'statistically significant'. That is, you are testing whether your data _falsifies your null hypothesis._ This is a weak and roundabout measure of the strength of evidence, and requires you to **explicily define your null hypothesis**. A serious student should laugh at [this cartoon](https://xkcd.com/882/); and more seriously should read and ponder [this paper](https://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3746.1) or other recent works on the [replication crisis in science](https://en.wikipedia.org/wiki/Replication_crisis), which partly attributed to the disreputable (but tempting) process of [_p-hacking_](https://en.wikipedia.org/wiki/Data_dredging). Understand this [cartoon](https://xkcd.com/1478/) and _don't be that person!_
+  b. These _tests_ estimate the [p-value](https://en.wikipedia.org/wiki/P-value), which is _the probability that a **randomly generated** score **if the null hypothesis were true**_ would be of _equal or greater magnitude_ than the **actual score**  you are testing before your claim can be declared 'statistically significant'. That is, you are testing whether your data _falsifies your null hypothesis._ This is a weak and roundabout measure of the strength of evidence. It requires you to **explicily define your null hypothesis**, and also you need to worry about the difference between _a priori_ significance and _a posteriori_ significance, by laughing knowingly at [this cartoon](https://xkcd.com/882/). More seriously, you should read and ponder [this paper](https://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3746.1) or other recent works on the [replication crisis in science](https://en.wikipedia.org/wiki/Replication_crisis), which partly attributed to the disreputable (but tempting) process of [_p-hacking_](https://en.wikipedia.org/wiki/Data_dredging). Understand this [cartoon](https://xkcd.com/1478/) and _don't be that person!_
 
 3. Know about linear correlation and regression: Know the definitions of cov(X,Y) = cov(Y,X), std(X) and std(Y), and _r_ (the correlation coefficient). Know the definitions of reg(Y,X) and reg(X,Y), which are **not equal**. Know that the _fraction of variance explained by the linear regression term_ is equal to the **square of r**. 
 
-4. Know the _principle of least squares_. Show that it is equivalent to the principle that _the regression term captures all of the linear relationship with the "predictor" (or "independent") variable_, so that _the residual is uncorrelated with the predictor variable_. Know how to explain these principles in your own words -- that is, how to _convince me_ that you really understand them **correctly and completely** -- with extra stars for expressing that _concisely_. 
+4. Know the _principle of minimizing the sum of squares of residue_, valid for so many kinds of data modeling (or curve fitting). Show that for linear regression, it is equivalent to the simpler principle that _the regression term captures all of the linear relationship with the "predictor" (or "independent") variable_, so that _the residual is uncorrelated with the predictor variable_. Know how to explain these principles in your own words -- that is, how to convince me that you really understand them **correctly and completely** -- with extra stars for expressing that _concisely_. 
 
 5. Do the worksheet (ExamAssignment.ipynb) which has the proper math symbols that this .md file can't display. 
 
@@ -64,13 +64,17 @@ Give the formula **and meaning**, using P(X) P(X,Y) P(X &#124; Y), and integrals
 
 Term | Meaning, and where appropriate, mathematical formulas in the form of integrals from -∞ to ∞. 
 -----|--------
+Random variable | 
+Event or realization | 
+Population (vs. sample) | 
+Independent events | 
 **Interpretations of probability** | Frequentist vs. Bayesian 
 Frequentist | 
-Bayesian | 
+[Bayesian](https://en.wikipedia.org/wiki/Bayesian_statistics) | 
 Prior |
 New information | 
 Posterior | 
-Bayes' theorem | 
+[Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) | 
 **Probability distribution** | 
 Contingency table | 
 [Monty Hall problem](http://marilynvossavant.com/game-show-problem/) [Wiki](https://en.wikipedia.org/wiki/Monty_Hall_problem) | Too big for this little slot! Write on back. 
@@ -91,8 +95,10 @@ Marginal distribution of T |
 Conditional distribution of T at w= 1 m/s | 
 Units of marginal  | 
 Units of conditional | 
+**Kinds of integrals** | Continuous versions of conceps from data summations
 Projection | 
 Independent | 
 Orthogonal | 
 Convolution | 
 Kernel | 
+
