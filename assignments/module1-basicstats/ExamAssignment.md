@@ -14,8 +14,10 @@
 
 4. Know the _principle of minimizing the sum of squares of residue_, valid for so many kinds of data modeling (or curve fitting). Show that for linear regression, it is equivalent to the simpler principle that _the regression term captures all of the linear relationship with the "predictor" (or "independent") variable_, so that _the residual is uncorrelated with the predictor variable_. Know how to explain these principles in your own words -- that is, how to convince me that you really understand them **correctly and completely** -- with extra stars for expressing that _concisely_. 
 
-5. Do the worksheet (ExamAssignment.ipynb) which has the proper math symbols that this .md file can't display. 
+5. A word problem: 
+When you put a pot of water on a heated stove, the water convects. The temperature at the top of the pan rises because of a fluid _heat flux_ wT. Do the problem (on a separate sheet
 
+---------
 ### Vocabulary tables: 
 
 #### Data terms: Simple statistics and regression
