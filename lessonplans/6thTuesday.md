@@ -7,6 +7,17 @@
 3. Show again the IDV, how to get data from it, and how to use xarray (instead of bare-bones netCDF reading) to get one's data. 
 
 4. Find out how and why scatter plots are colored in the first notebook. 
+'
+
 
 Scout assignments? Falling behind on this intention... 
+
+Higher level approach to data access: xarray
+
+Higher level access to geographic plotting and multidimensional data 
+http://geo.holoviews.org/user_guide/Gridded_Datasets_I.html
+But first, load them into the environment. I added them to 
+https://github.com/MPOcanes/MPO624-2018/blob/master/MPO624_conda_environment.yml
+
+conda env _update_ -f MPO624_conda_environment.yml
 

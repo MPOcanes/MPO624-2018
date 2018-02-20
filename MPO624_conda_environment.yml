@@ -19,6 +19,9 @@
    - shapely<=1.5.17
    - siphon
    - xarray
+   - holoviews
+   - geoviews
+   - iris
    - pip
    - ffmpeg
    - pytest
