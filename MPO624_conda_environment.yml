@@ -2,6 +2,7 @@
  channels:
    - conda-forge
    - damianavila82
+   - ioam
  dependencies:
    - python=3
    - rise
@@ -19,6 +20,9 @@
    - shapely<=1.5.17
    - siphon
    - xarray
+   - holoviews
+   - geoviews
+   - iris
    - pip
    - ffmpeg
    - pytest
