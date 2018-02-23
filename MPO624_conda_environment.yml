@@ -5,6 +5,7 @@
    - ioam
  dependencies:
    - python=3
+   - jupyterlab
    - rise
    - numpy
    - matplotlib
