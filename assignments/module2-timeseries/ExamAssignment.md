@@ -13,5 +13,7 @@
 6. The power spectrum contains only _half of the information_ (squared amplitude a<sup>2</sup> + b<sup>2</sup>) needed to reconstruct the original data. Where is the other half? What happens to a data series if you preserve P(ω) but randomize the phase of each wavelength? 
 
 7. **Why** would a sensible person decompose or expand their data series into a sum of harmonic (sinusoidal) functions? 
+
   a. List some reasons why we might we expect or hope to find such signals in the atmosphere and ocean. Be sure to use both the words forced and free in your answer, and explain why harmonic forcing is expected. 
+
   b. Explain the link between finding a statistically significant periodicity (a spectral peak) and predictability. 
