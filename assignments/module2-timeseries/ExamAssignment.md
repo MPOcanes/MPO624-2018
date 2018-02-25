@@ -14,6 +14,6 @@
 
 7. **Why** would a sensible person decompose or expand their data series into a sum of harmonic (sinusoidal) functions? 
 
-  a. List some reasons why we might we expect or hope to find such signals in the atmosphere and ocean. Be sure to use both the words forced and free in your answer, and explain why harmonic forcing is expected. 
+    - a. List some reasons why we might we expect or hope to find such signals in the atmosphere and ocean. Be sure to use both the words forced and free in your answer, and explain why harmonic forcing is expected. 
 
-  b. Explain the link between finding a statistically significant periodicity (a spectral peak) and predictability. 
+    - b. Explain the link between finding a statistically significant periodicity (a spectral peak) and predictability. 
