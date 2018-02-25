@@ -2,7 +2,7 @@
 
 0. What are the definitions and units of _wavelength_, _period_, _frequency_,  _wavenumber_, _amplitude_, _phase_? What does _monochromatic_ mean? 
 
-1. Write down the definition of the continuous Fourier transform involving an integral over t (f_hat = ∫ f(t)...). Write down its inverse, which maps the information back. Sketch the sine and cosine functions necessary to show that, for any real function (or series) f(t), the power spectrum is _symmetric about 0_: that is, for an absolute frequency |ω|, exp(iωt) and exp(-iωt) have an equal magnitude of projection onto f(t). Show that this is the same as reversing the order of the time series (the sign of t). 
+1. Write down the continuous Fourier transform of a function f(t), involving an integral over t (f' = ∫ f(t)...). Write down its inverse, which maps the information back. Sketch the sine and cosine functions necessary to show that, for any real function (or series) f(t), the power spectrum is _symmetric_: that is, for any absolute frequency |ω|, exp(iωt) and exp(-iωt) have an equal magnitude of projection onto f(t). What does this imply about time-reversed signals (flipping the sign of t)? 
 
 3. Write down the decomposition of a data series V(t) in [0,L] as a sum of cosine terms (with coefficients a0, a1, a2, a3...) and sine terms (with coefficients b1, b2, b3...), for frequencies (0,1,2,3...) times the lowest possible frequency ω<sub>0</sub> = (2π/L).  Why is there no b0 coefficient? Show how a<sub>j</sub> and b<sub>j</sub> relate to complex c<sub>j</sub> in V = ∑ c<sub>j</sub> exp(iω<sub>0</sub> t⋅j)
 
