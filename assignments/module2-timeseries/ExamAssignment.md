@@ -12,8 +12,11 @@
 
 6. The power spectrum contains only _half of the information_ (squared amplitude a<sup>2</sup> + b<sup>2</sup>) needed to reconstruct the original data. Where is the other half? What happens to a data series if you preserve P(ω) but randomize the phase of each wavelength? 
 
-7. **Why** would a sensible person decompose or expand their data series into a sum of harmonic (sinusoidal) functions? 
+7. How many _degrees of freedom_ (independent pieces of information) are used to estimate each frequency band of a discrete power spectrum? Hint: Think of the a and b coefficients from 3. We commonly discuss frequencies in terms of their inverse, the _period_. If you have a L=1000 day time series, which _range of periods_ in the spectrum has more independent pieces of information entering your estimate: 40-50 days or 4-4.2 days? Specifically, how many DOFs are in each of these two period ranges? 
+
+8. **Why** would a sensible person decompose or expand their data series into a sum of harmonic (sinusoidal) functions? 
 
     - a. List some reasons why we might we expect or hope to find such signals in the atmosphere and ocean. Be sure to use both the words forced and free in your answer, and explain why harmonic forcing is expected. 
 
     - b. Explain the link between finding a statistically significant periodicity (a spectral peak) and predictability. 
+
