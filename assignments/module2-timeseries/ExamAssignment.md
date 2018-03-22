@@ -1,4 +1,5 @@
 # Concepts and vocabulary of Fourier analysis
+## Draft as of day 1 of course unit 
 
 0. What are the definitions and units of _wavelength_, _period_, _frequency_,  _wavenumber_, _amplitude_, _phase_? What does _monochromatic_ mean? 
 
