@@ -12,10 +12,11 @@
 
     a. Write it as a sum of cosine terms (with coefficients a0, a1, a2, a3...) and sine terms (with coefficients b1, b2, b3...), for frequencies (0,1,2,3...) times the lowest possible frequency ω<sub>0</sub> = (2π/L). The lowest freqwuency ω<sub>0</sub> is called the **bandwidth**, since it discretizes the frequency domain into finite bands. After your ... for the many frequencies, make your expression end at the **highest** frequency in V(t) -- it is called the **Nyquist** freqiuency. Why is there no b0 coefficient? 
     
-    b. Write the complex version of the decomposition: V = ∑<sub>j</sub> c<sub>j</sub> exp(iω<sub>0</sub>t⋅j). Show how a<sub>j</sub> and b<sub>j</sub> relate to the real and imaginary parts of complex c<sub>j</sub>. 
+    b. Write it as a **discrete cosine transform**, using cosines only, but with phase offsets in each frequency (that is, with _amplitude A and phase φ_ rather than _sine and cosine_ components in each frequency). How are the A and φ coefficients related to a and b coefficients for each frequency? 
     
-    c. Write the power spectrum P(ω) in terms of a and b coefficients; and also in terms of the complex c coefficients. 
-
+    c. Write the complex version of the decomposition: V = ∑<sub>j</sub> c<sub>j</sub> exp(iω<sub>0</sub>t⋅j). Show how a<sub>j</sub> and b<sub>j</sub> relate to the real and imaginary parts of complex c<sub>j</sub>. 
+    
+    d. Write the power spectrum P(ω) in terms of a and b coefficients; and also in terms of the A and φ coefficients; and also in terms of the complex c coefficients. 
 
 3. Suppose you have 100 years of tropical rainfall data at a point, one value per day, from a model. You want to ask if the model has the Madden-Julian oscillation, which Madden and Julian (1971) detected in nature: a statistically signifficant (above an AR1 red noise null hypothesis) spectral peak, _in the frequency band with 40-50 day periods_.  
 
@@ -39,5 +40,5 @@
 
 1. Write down the continuous Fourier transform of a function f(t), involving an integral over t (f' = ∫ f(t)...). Write down its inverse, which maps the information back. Sketch the sine and cosine functions necessary to show that, for any real function (or series) f(t), the power spectrum is _symmetric_: that is, for any absolute frequency |ω|, exp(iωt) and exp(-iωt) have an equal magnitude of projection onto f(t). What does this imply about time-reversed signals (flipping the sign of t)? 
 
-4. Show that this is an _orthogonal decomposition_ of V: square the right hand side (mentally) and write down the kinds of cross terms that vanish. For one such cross term, sketch the two functions that are multiplied, and sketch their product, and use shading to show that its positive lobes are exacly canceled by its negative lobes. Write down what this means for the decomposition of the _variance of V_ (related to kinetic energy, if V is a velocity). This result is called _Parseval's theorem_. In light of this, what is a _power spectrum_ P(ω), and why is it called "power"? (Hint: what is the relationshiop of power and energy in the physical domain)?
+4. Show that this is an _orthogonal decomposition_ of V: square the right hand side (mentally) and write down the kinds of cross terms that vanish. This result is called _Parseval's theorem_. In light of this, what is a _power spectrum_ P(ω), and why is it called "power"? (Hint: what is the relationshiop of power and energy in the physical domain)?
 
