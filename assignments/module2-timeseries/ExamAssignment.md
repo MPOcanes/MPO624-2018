@@ -1,4 +1,4 @@
-# Problem set / take-home exam on Fourier analysis module
+### Problem set / take-home exam on Fourier analysis module
 
 0. **Why** would a sensible person decompose or expand their data series into a sum of harmonic (sinusoidal) functions? Hint: This is to make you read my "crashcourse" writeup. 
 
@@ -29,9 +29,7 @@
     d. Suppose your data were not actually daily totals, but hourly rainfall amounts, once per day. If the variance of hourly rainfall is 5x bigger than the variance of daily rainfall, the extra 400% of variance will be misinterpreted as low frequencies, or **aliased**, into the range of your spectrum (between the bandwidth and the Nyqyuist frequency). If you assume that this aliased "undersampling noise" variance is distributed over your spectrum randomly, with a uniform (white) distribution over the frequency bins, what is its effect on the significance problem from c.? Discuss in sensible terms, and calculate if you can (perhaps using a uniform random number generator to estimate things, if you want to get specific).  
 
 
-
 ---------- Old stuff - appreciate the material, but no need to write answers. 
-
 3.  What aspect of your estimate of P(ω) is compromised, and how, by having a _finite length or duration_ of your data series? (Hint: does this impact low frequencies or high?)  What aspect of P(ω) is compromised, and how, by a _finite spacing between values in your series_? (again, low frequencies or high?) What aspect is compromised (and how) by treating a finite, nonperiodic segment of data (as _all time series_ truly are...) as if it were periodic? (Hint: Think about the end points, and the spectrum of a step function.) 
 
 6. The power spectrum contains only _half of the information_ (squared amplitude a<sup>2</sup> + b<sup>2</sup>) needed to reconstruct the original data. Where is the other half? What happens to a data series if you preserve P(ω) but randomize the phase of each wavelength? 
