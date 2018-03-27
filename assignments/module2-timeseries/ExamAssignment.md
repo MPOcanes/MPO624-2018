@@ -1,4 +1,4 @@
-### Problem set / take-home exam on Fourier analysis module
+### Take-home exam on Fourier module
 
 0. **Why** would a sensible person decompose or expand their data series into a sum of harmonic (sinusoidal) functions? Hint: This is to make you read my "crashcourse" writeup. 
 
@@ -30,7 +30,6 @@
 
 
 ---------- Old stuff - appreciate the material, but no need to write answers. 
-3.  What aspect of your estimate of P(ω) is compromised, and how, by having a _finite length or duration_ of your data series? (Hint: does this impact low frequencies or high?)  What aspect of P(ω) is compromised, and how, by a _finite spacing between values in your series_? (again, low frequencies or high?) What aspect is compromised (and how) by treating a finite, nonperiodic segment of data (as _all time series_ truly are...) as if it were periodic? (Hint: Think about the end points, and the spectrum of a step function.) 
 
 1. Write down the continuous Fourier transform of a function f(t), involving an integral over t (f' = ∫ f(t)...). Write down its inverse, which maps the information back. Sketch the sine and cosine functions necessary to show that, for any real function (or series) f(t), the power spectrum is _symmetric_: that is, for any absolute frequency |ω|, exp(iωt) and exp(-iωt) have an equal magnitude of projection onto f(t). What does this imply about time-reversed signals (flipping the sign of t)? 
 
