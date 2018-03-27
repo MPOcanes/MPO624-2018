@@ -28,10 +28,3 @@
     
     d. Suppose your data were not actually daily totals, but hourly rainfall amounts, once per day. If the variance of hourly rainfall is 5x bigger than the variance of daily rainfall, the extra 400% of variance will be misinterpreted as low frequencies, or **aliased**, into the range of your spectrum (between the bandwidth and the Nyqyuist frequency). If you assume that this aliased "undersampling noise" variance is distributed over your spectrum randomly, with a uniform (white) distribution over the frequency bins, what is its effect on the significance problem from c.? Discuss in sensible terms, and calculate if you can (perhaps using a uniform random number generator to estimate things, if you want to get specific).  
 
-
----------- Old stuff - appreciate the material, but no need to write answers. 
-
-1. Write down the continuous Fourier transform of a function f(t), involving an integral over t (f' = ∫ f(t)...). Write down its inverse, which maps the information back. Sketch the sine and cosine functions necessary to show that, for any real function (or series) f(t), the power spectrum is _symmetric_: that is, for any absolute frequency |ω|, exp(iωt) and exp(-iωt) have an equal magnitude of projection onto f(t). What does this imply about time-reversed signals (flipping the sign of t)? 
-
-4. Show that this is an _orthogonal decomposition_ of V: square the right hand side (mentally) and write down the kinds of cross terms that vanish. This result is called _Parseval's theorem_. In light of this, what is a _power spectrum_ P(ω), and why is it called "power"? (Hint: what is the relationshiop of power and energy in the physical domain)?
-
