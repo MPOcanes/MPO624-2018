@@ -1,6 +1,6 @@
 # Module 1 essentials 
 ### Problems to do. Turn in next Tuesday. 
-### An in-class 💦 mini-exam Tuesday (30 minutes) will ask a few of these key points, so make sure they actually go in your head, and you understand them. 
+#### An in-class mini-exam Tuesday (30 minutes) will ask a few of these key points, so make sure they actually go in your head, and you understand them. 
 
 1. Know the word _deviation_ or _perturbation_ (indicating that the _mean_ of your set of numbers has been subtracted). Know that in our field, _anomaly_ means a deviation from a _time_ average, while _eddy_ means a deviation from a _spatial_ average. Know the adjective  _standardized_ (indicating a deviation that has been divided by the _standard deviation_: this makes standardized variables _unitless_). 
 
@@ -10,7 +10,7 @@
   
   b. These _tests_ estimate the [p-value](https://en.wikipedia.org/wiki/P-value), which is _the probability that a **randomly generated** score **if the null hypothesis were true**_ would be of _equal or greater magnitude_ than the **actual score**  you are testing before your claim can be declared 'statistically significant'. That is, you are testing whether your data _falsifies your null hypothesis._ This is a weak and roundabout measure of the strength of evidence. It requires you to **explicily define your null hypothesis**, and also you need to worry about the difference between _a priori_ significance and _a posteriori_ significance, by laughing knowingly at [this cartoon](https://xkcd.com/882/). More seriously, you should read and ponder [this paper](https://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3746.1) or other recent works on the [replication crisis in science](https://en.wikipedia.org/wiki/Replication_crisis), which partly attributed to the disreputable (but tempting) process of [_p-hacking_](https://en.wikipedia.org/wiki/Data_dredging). Understand this [cartoon](https://xkcd.com/1478/) and _don't be that person!_
 
-3. Know about linear correlation and regression: Know the definitions of cov(X,Y) = cov(Y,X), std(X) and std(Y), and _r_ (the correlation coefficient). Know the definitions of reg(Y,X) and reg(X,Y), which are **not equal**. Know that the _fraction of variance explained by the linear regression term_ is equal to the **square of r**. 
+3. Know about linear correlation and regression: Know the definitions of cov(X,Y) = cov(Y,X), std(X) and std(Y), and _r_ (the correlation coefficient). Know the definitions of reg(Y,X) and reg(X,Y), which are **not equal**, and not even reciprocal of each other. Know that the _fraction of variance explained by the linear regression term_ is equal to the **square of r**. 
 
 4. Know the _principle of minimizing the sum of squares of residue_, valid for so many kinds of data modeling (or curve fitting). Show that for linear regression, it is equivalent to the simpler principle that _the regression term captures all of the linear relationship with the "predictor" (or "independent") variable_, so that _the residual is uncorrelated with the predictor variable_. Know how to explain these principles in your own words -- that is, how to convince me that you really understand them **correctly and completely** -- with extra stars for expressing that _concisely_. 
 
