@@ -1,17 +1,9 @@
-######################
-# OS generated files #
-######################
-.DS_Store*
-ehthumbs.db
-Icon?
-Thumbs.db
-*.swp
-*.*~
-._*
-
 ##########
 # python #
 ##########
+
+.ipynb_checkpoints/
+
 *.py[cod]
 
 # C extensions
@@ -44,7 +36,16 @@ nosetests.xml
 # Translations
 *.mo
 
-.ipynb_checkpoints/
+######################
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+*.*~
+._*
 
 #######
 # IDE #
@@ -59,6 +60,3 @@ Anaconda-2.0.1-Linux-*.sh
 tmp_img/
 data/new.nc
 data/new2.nc
-
-# Emacs edited text files
-*~
