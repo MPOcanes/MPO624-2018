@@ -5,14 +5,15 @@
    - ioam
  dependencies:
    - python=3
+   - jupyter
    - jupyterlab
    - rise
    - numpy
    - matplotlib
    - jsanimation
    - scikit-learn
+   - eofs
    - cartopy
-   - jupyter
    - seaborn
    - netcdf4
    - owslib
