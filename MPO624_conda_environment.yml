@@ -27,6 +27,7 @@
    - iris
    - pip
    - ffmpeg
+   - imageio
    - pytest
    - ipywidgets
    - pip:
