@@ -34,3 +34,4 @@
      - python-awips
      - mpldatacursor
      - drilsdown
+     - opencv-python
