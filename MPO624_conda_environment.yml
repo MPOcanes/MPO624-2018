@@ -28,7 +28,6 @@
    - pip
    - ffmpeg
    - imageio
-   - visvis
    - pytest
    - ipywidgets
    - pip:
