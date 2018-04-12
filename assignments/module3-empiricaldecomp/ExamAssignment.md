@@ -13,7 +13,7 @@ Consider Appendix 1: Overview of Matrix Algebra, page 536 of Martinson book proo
   
   b. What are the *ranks* of those two square matrices, if none of your data are redundant? What does rank mean? 
   
-  c. How many unique nonzero eigenvalues does each square matrix have? 
+  c. How many nonzero eigenvalues does each square matrix have? 
   
   d. What are the desirable (useful) properties of eigenvectors? 
   
