@@ -5,7 +5,7 @@
 Due: April 24, 2018
 
 ### 1. Linear algebra concepts needed for user-level understanding. 
-Consider Appendix 1: Overview of Matrix Algebra, page 536 of Martinson book proofs in Readings, or find your own sources (feel free to cite good ones you find). 
+Consider Appendix 1: Overview of Matrix Algebra, page 536 of Martinson book proofs in Readings, or find your own sources (please share by citing good ones you find). 
   
 **1.1 Vocabulary and basics**
 
