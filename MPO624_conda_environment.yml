@@ -13,6 +13,7 @@
    - matplotlib
    - jsanimation
    - scikit-learn
+   - scikit-image
    - eofs
    - cartopy
    - seaborn
