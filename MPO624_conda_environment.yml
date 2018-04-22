@@ -7,11 +7,13 @@
    - python=3
    - jupyter
    - jupyterlab
+   - spyder
    - rise
    - numpy
    - matplotlib
    - jsanimation
    - scikit-learn
+   - scikit-image
    - eofs
    - cartopy
    - seaborn
