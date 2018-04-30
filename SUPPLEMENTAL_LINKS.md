@@ -2,9 +2,9 @@
 
 * Other courses & books about statistics and data analysis
 
-  * My past courses: http://mpo624-2016.wikispaces.com/
+  * My past courses: ~~http://mpo624-2016.wikispaces.com/~~ Out of Business
   * Libby Barnes course at CSU http://barnes.atmos.colostate.edu/COURSES/AT655_S17/lecture_slides.html
-  * Excellent free Matlab based .ppt's http://www.ldeo.columbia.edu/users/menke/edawm/eda_lectures/ 
+  * Excellent free Matlab-based course .ppt's http://www.ldeo.columbia.edu/users/menke/edawm/eda_lectures/ 
   
 --------------
 * RSMAS/MPO's own general computer topics talks https://github.com/milancurcic/lunch-bytes
@@ -33,7 +33,6 @@
     * geosciences https://github.com/koldunovn/python_for_geosciences
     * oceanography https://github.com/ocefpaf
     * metocean https://github.com/nicolasfauchereau/metocean
-    * NASA Notebook on how to open and read and plot data from NASA servers without downloading. For instance, this server and goldsmr5 host MERRA2 reanalysis.
 
   * Leo Sequira's notebooks 
     * Exploring netCDF files with Python https://gist.github.com/leosiqueira/0234c12e0194fe0a9b7b#file-python_lunchbytes_rsmas-ipynb
