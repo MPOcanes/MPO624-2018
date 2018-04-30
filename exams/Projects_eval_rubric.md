@@ -10,7 +10,7 @@ Jesse Clark | | |
 Nektaria Ntaganou | | | 
 Wei-Ming Tsai | | | 
 Carli Merrick | | | 
-Becca Hammersla | | | 
+Becca Hammersia | | | 
 Valeria Donets | | | 
 Kelsey Malloy | | | 
 Sara Purdue | | | 
