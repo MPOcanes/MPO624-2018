@@ -6,7 +6,6 @@ Name | I. Priors, questions, hypotheses | II. Data analysis, Applied | III. Synt
 -----|------ | -------------------|----------------------
 Rachel Zelinsky | | | 
 Kayla Besong | | | 
-Jesse Clark | | | 
 Nektaria Ntaganou | | | 
 Wei-Ming Tsai | | | 
 Carli Merrick | | | 
