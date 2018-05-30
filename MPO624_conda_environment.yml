@@ -18,6 +18,7 @@
    - cartopy
    - seaborn
    - netcdf4
+   - curl
    - owslib
    - metpy
    - pint
